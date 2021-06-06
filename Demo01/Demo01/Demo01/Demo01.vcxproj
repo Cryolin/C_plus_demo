@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.cpp" />
+    <ClCompile Include="1. HelloWorld.cpp" />
+    <ClCompile Include="2. 常量.cpp" />
+    <ClCompile Include="3. sizeOf关键字.cpp" />
+    <ClCompile Include="4. 字符串类型.cpp" />
+    <ClCompile Include="5. 数据输入输出.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,7 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.cpp">
+    <ClCompile Include="1. HelloWorld.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2. 常量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3. sizeOf关键字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4. 字符串类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 数据输入输出.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
