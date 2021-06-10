@@ -144,6 +144,7 @@
     <ClCompile Include="3. sizeOf关键字.cpp" />
     <ClCompile Include="4. 字符串类型.cpp" />
     <ClCompile Include="5. 数据输入输出.cpp" />
+    <ClCompile Include="6.选择结构.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

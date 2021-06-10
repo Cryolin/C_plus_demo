@@ -30,5 +30,8 @@
     <ClCompile Include="5. 数据输入输出.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6.选择结构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
