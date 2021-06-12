@@ -140,11 +140,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1. HelloWorld.cpp" />
+    <ClCompile Include="10. 函数声明.cpp" />
+    <ClCompile Include="11. 函数分文件编写.cpp" />
     <ClCompile Include="2. 常量.cpp" />
     <ClCompile Include="3. sizeOf关键字.cpp" />
     <ClCompile Include="4. 字符串类型.cpp" />
     <ClCompile Include="5. 数据输入输出.cpp" />
-    <ClCompile Include="6.选择结构.cpp" />
+    <ClCompile Include="6. 选择结构.cpp" />
+    <ClCompile Include="7. 循环结构.cpp" />
+    <ClCompile Include="8. 一维数组.cpp" />
+    <ClCompile Include="9. 二维数组.cpp" />
+    <ClCompile Include="test.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
