@@ -51,6 +51,24 @@
     <ClCompile Include="11. 函数分文件编写.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="12. 指针基础.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13. const修饰指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14. 指针和数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15. 指针和函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16. 结构体的定义和使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17. 结构体指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">

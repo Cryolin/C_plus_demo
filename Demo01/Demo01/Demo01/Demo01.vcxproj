@@ -24,6 +24,7 @@
     <ProjectGuid>{22c2fadb-659c-42ad-9426-742b2ac1615e}</ProjectGuid>
     <RootNamespace>Demo01</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>1. C++基础编程</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -142,6 +143,12 @@
     <ClCompile Include="1. HelloWorld.cpp" />
     <ClCompile Include="10. 函数声明.cpp" />
     <ClCompile Include="11. 函数分文件编写.cpp" />
+    <ClCompile Include="12. 指针基础.cpp" />
+    <ClCompile Include="13. const修饰指针.cpp" />
+    <ClCompile Include="14. 指针和数组.cpp" />
+    <ClCompile Include="15. 指针和函数.cpp" />
+    <ClCompile Include="16. 结构体的定义和使用.cpp" />
+    <ClCompile Include="17. 结构体指针.cpp" />
     <ClCompile Include="2. 常量.cpp" />
     <ClCompile Include="3. sizeOf关键字.cpp" />
     <ClCompile Include="4. 字符串类型.cpp" />
