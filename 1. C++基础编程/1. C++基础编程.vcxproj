@@ -18,34 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\1. HelloWorld.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\10. 函数声明.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\11. 函数分文件编写.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\12. 指针基础.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\13. const修饰指针.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\14. 指针和数组.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\15. 指针和函数.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\16. 结构体的定义和使用.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\17. 结构体指针.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\2. 常量.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\3. sizeOf关键字.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\4. 字符串类型.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\5. 数据输入输出.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\6. 选择结构.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\7. 循环结构.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\8. 一维数组.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\9. 二维数组.cpp" />
-    <ClCompile Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\test.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\C_plus_demo\Demo01\Demo01\1. C++基础编程\test.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d96a5c4c-538b-4a92-9ea0-8722724ac59c}</ProjectGuid>
-    <RootNamespace>My1C基础</RootNamespace>
+    <ProjectGuid>{9b6386b5-7be3-4ad1-97e1-fc53f474363f}</ProjectGuid>
+    <RootNamespace>My1C基础编程</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -161,6 +138,29 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="1. HelloWorld.cpp" />
+    <ClCompile Include="10. 函数声明.cpp" />
+    <ClCompile Include="11. 函数分文件编写.cpp" />
+    <ClCompile Include="12. 指针基础.cpp" />
+    <ClCompile Include="13. const修饰指针.cpp" />
+    <ClCompile Include="14. 指针和数组.cpp" />
+    <ClCompile Include="15. 指针和函数.cpp" />
+    <ClCompile Include="16. 结构体的定义和使用.cpp" />
+    <ClCompile Include="17. 结构体指针.cpp" />
+    <ClCompile Include="2. 常量.cpp" />
+    <ClCompile Include="3. sizeOf关键字.cpp" />
+    <ClCompile Include="4. 字符串类型.cpp" />
+    <ClCompile Include="5. 数据输入输出.cpp" />
+    <ClCompile Include="6. 选择结构.cpp" />
+    <ClCompile Include="7. 循环结构.cpp" />
+    <ClCompile Include="8. 一维数组.cpp" />
+    <ClCompile Include="9. 二维数组.cpp" />
+    <ClCompile Include="test.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
