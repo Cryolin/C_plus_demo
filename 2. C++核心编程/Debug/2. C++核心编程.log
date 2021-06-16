@@ -1,2 +1,3 @@
-﻿  3. 堆.cpp
+﻿  6. 引用做函数返回值.cpp
+D:\git\C_plus_demo\2. C++核心编程\6. 引用做函数返回值.cpp(10): warning C4172: 返回局部变量或临时变量的地址: a
   2. C++核心编程.vcxproj -> D:\git\C_plus_demo\2. C++核心编程\Debug\2. C++核心编程.exe

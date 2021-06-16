@@ -142,6 +142,10 @@
     <ClCompile Include="1. 静态内存和动态内存.cpp" />
     <ClCompile Include="2. 栈.cpp" />
     <ClCompile Include="3. 堆.cpp" />
+    <ClCompile Include="4. 引用基本用法.cpp" />
+    <ClCompile Include="5. 引用做函数参数.cpp" />
+    <ClCompile Include="6. 引用做函数返回值.cpp" />
+    <ClCompile Include="7. 引用的本质.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -24,5 +24,17 @@
     <ClCompile Include="3. 堆.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4. 引用基本用法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 引用做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6. 引用做函数返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7. 引用的本质.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
