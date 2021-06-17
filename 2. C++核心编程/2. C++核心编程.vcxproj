@@ -140,12 +140,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1. 静态内存和动态内存.cpp" />
+    <ClCompile Include="10. 函数的占位参数.cpp" />
+    <ClCompile Include="11. 函数重载.cpp" />
+    <ClCompile Include="12. 函数重载与引用.cpp" />
+    <ClCompile Include="13. 函数重载与默认参数.cpp" />
     <ClCompile Include="2. 栈.cpp" />
     <ClCompile Include="3. 堆.cpp" />
     <ClCompile Include="4. 引用基本用法.cpp" />
     <ClCompile Include="5. 引用做函数参数.cpp" />
     <ClCompile Include="6. 引用做函数返回值.cpp" />
     <ClCompile Include="7. 引用的本质.cpp" />
+    <ClCompile Include="8. const修饰引用.cpp" />
+    <ClCompile Include="9. 函数的默认参数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -36,5 +36,23 @@
     <ClCompile Include="7. 引用的本质.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8. const修饰引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9. 函数的默认参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 函数重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 函数的占位参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12. 函数重载与引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13. 函数重载与默认参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
