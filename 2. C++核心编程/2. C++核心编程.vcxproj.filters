@@ -54,5 +54,11 @@
     <ClCompile Include="13. 函数重载与默认参数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14. 类和对象的简单示例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15. struct和class的区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
