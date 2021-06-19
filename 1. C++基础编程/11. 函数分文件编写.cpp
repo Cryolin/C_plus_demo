@@ -1,5 +1,5 @@
 // 导入test.h
-#include "test.h";
+//#include "test.h";
 
 // test.h中，已经导入了iostream，所以此处无需重复导入
 //#include <iostream>

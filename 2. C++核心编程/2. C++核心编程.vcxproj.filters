@@ -60,5 +60,13 @@
     <ClCompile Include="15. struct和class的区别.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

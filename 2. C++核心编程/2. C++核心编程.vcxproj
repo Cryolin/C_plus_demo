@@ -154,6 +154,10 @@
     <ClCompile Include="7. 引用的本质.cpp" />
     <ClCompile Include="8. const修饰引用.cpp" />
     <ClCompile Include="9. 函数的默认参数.cpp" />
+    <ClCompile Include="Point.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
