@@ -146,6 +146,8 @@
     <ClCompile Include="13. 函数重载与默认参数.cpp" />
     <ClCompile Include="14. 类和对象的简单示例.cpp" />
     <ClCompile Include="15. struct和class的区别.cpp" />
+    <ClCompile Include="16. 构造函数和析构函数.cpp" />
+    <ClCompile Include="17. 构造函数的分类及调用.cpp" />
     <ClCompile Include="2. 栈.cpp" />
     <ClCompile Include="3. 堆.cpp" />
     <ClCompile Include="4. 引用基本用法.cpp" />
