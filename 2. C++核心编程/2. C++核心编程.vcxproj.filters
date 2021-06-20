@@ -69,6 +69,42 @@
     <ClCompile Include="17. 构造函数的分类及调用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="18. 拷贝构造函数的调用时机01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19. 拷贝构造函数的调用时机02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20. 构造函数的调用规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21. 深拷贝与浅拷贝01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22. 深拷贝与浅拷贝02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23. 深拷贝与浅拷贝03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24. 初始化列表01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27. 类对象作为类成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25. 初始化列表02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26. 初始化列表03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28. 静态成员变量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29. 静态成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h">
