@@ -156,6 +156,57 @@
     <ClCompile Include="46. 函数调用运算符重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="47. 继承的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48. 继承中的对象模型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49. 继承中构造与析构的顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50. 继承中同名成员的访问.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51. 继承同名静态成员的访问.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52. 多继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53. 菱形继承01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54. 菱形继承02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55. 多态举例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56. 纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57. 虚析构和纯虚析构01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58. 虚析构和纯虚析构02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59. 虚析构和纯虚析构03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60. 写文件%28文本文件%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61. 读文件(文本文件).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62. 写文件(二进制文件).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63. 读文件(二进制文件).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h">
