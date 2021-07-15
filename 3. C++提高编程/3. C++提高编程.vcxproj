@@ -18,11 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1. 函数模板基本语法.cpp" />
+    <ClCompile Include="2. 函数模板与隐式类型转换1.cpp" />
+    <ClCompile Include="3. 函数模板与隐式类型转换2.cpp" />
+    <ClCompile Include="4. 函数模板与隐式类型转换3.cpp" />
+    <ClCompile Include="5. 普通函数与函数模板的调用规则.cpp" />
+    <ClCompile Include="6. 模板的局限性.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9b6386b5-7be3-4ad1-97e1-fc53f474363f}</ProjectGuid>
-    <RootNamespace>My1C基础编程</RootNamespace>
+    <ProjectGuid>{3b858ebd-8a7e-498c-9d34-39eef085827c}</ProjectGuid>
+    <RootNamespace>My3C提高编程</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,33 +146,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="1. HelloWorld.cpp" />
-    <ClCompile Include="10. 函数声明.cpp" />
-    <ClCompile Include="11. 函数分文件编写.cpp" />
-    <ClCompile Include="12. 指针基础.cpp" />
-    <ClCompile Include="13. const修饰指针.cpp" />
-    <ClCompile Include="14. 指针和数组.cpp" />
-    <ClCompile Include="15. 指针和函数.cpp" />
-    <ClCompile Include="16. 结构体的定义和使用.cpp" />
-    <ClCompile Include="17. 结构体指针.cpp" />
-    <ClCompile Include="18. 传递数组给函数.cpp" />
-    <ClCompile Include="2. 常量.cpp" />
-    <ClCompile Include="3. sizeOf关键字.cpp" />
-    <ClCompile Include="4. 字符串类型.cpp" />
-    <ClCompile Include="5. 数据输入输出.cpp" />
-    <ClCompile Include="6. 选择结构.cpp" />
-    <ClCompile Include="7. 循环结构.cpp" />
-    <ClCompile Include="8. 一维数组.cpp" />
-    <ClCompile Include="9. 二维数组.cpp" />
-    <ClCompile Include="define01.cpp" />
-    <ClCompile Include="test.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="define01.h" />
-    <ClInclude Include="define02.h" />
-    <ClInclude Include="test.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
