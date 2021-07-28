@@ -144,6 +144,8 @@
     <ClCompile Include="3. 预处理命令02.cpp" />
     <ClCompile Include="4. strcmp的用法.cpp" />
     <ClCompile Include="5. 命名空间.cpp" />
+    <ClCompile Include="6. 子类调用父类构造函数.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

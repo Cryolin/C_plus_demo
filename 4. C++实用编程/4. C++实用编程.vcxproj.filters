@@ -30,5 +30,11 @@
     <ClCompile Include="5. 命名空间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6. 子类调用父类构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
