@@ -36,5 +36,14 @@
     <ClCompile Include="6. 子类调用父类构造函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7. 函数指针01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8. 函数指针02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9. 函数指针03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
