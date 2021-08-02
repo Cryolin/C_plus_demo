@@ -12,10 +12,12 @@
 //	// 把函数Max赋给指针变量p, 使p指向Max函数
 //	p = Max;
 //
-//	//通过函数指针调用Max函数
+//	//通过函数指针调用Max函数，如下两种调用方法均可
 //	int c = (*p)(a, b);
-//
 //	cout << "c = (*p)(a, b)  : " << c << endl;
+//
+//	int d = p(a, b);
+//	cout << "d = p(a, b)  : " << d << endl;
 //	system("pause");
 //	return 0;
 //}

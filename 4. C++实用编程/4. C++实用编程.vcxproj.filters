@@ -45,5 +45,11 @@
     <ClCompile Include="9. 函数指针03.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11. void指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 函数指针04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
