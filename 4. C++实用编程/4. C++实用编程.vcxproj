@@ -142,6 +142,7 @@
     <ClCompile Include="1. main函数传参.cpp" />
     <ClCompile Include="11. void指针.cpp" />
     <ClCompile Include="10. 函数指针04.cpp" />
+    <ClCompile Include="12. malloc和free.cpp" />
     <ClCompile Include="2. 预处理命令01.cpp" />
     <ClCompile Include="3. 预处理命令02.cpp" />
     <ClCompile Include="4. strcmp的用法.cpp" />
