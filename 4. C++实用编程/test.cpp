@@ -18,9 +18,7 @@
 //
 //int main()
 //{
-//	int* arr;
-//	arr++;
-//
+//	char str1[] = "abc";
 //
 //	system("pause");
 //}

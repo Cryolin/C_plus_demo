@@ -114,7 +114,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -143,9 +143,18 @@
     <ClCompile Include="11. void指针.cpp" />
     <ClCompile Include="10. 函数指针04.cpp" />
     <ClCompile Include="12. malloc和free.cpp" />
+    <ClCompile Include="13. realloc.cpp" />
+    <ClCompile Include="14. 获取字符串长度.cpp" />
+    <ClCompile Include="15. 字符串转换.cpp" />
+    <ClCompile Include="16. 字符串查找.cpp" />
+    <ClCompile Include="17. 字符串拼接.cpp" />
+    <ClCompile Include="18. 字符串复制.cpp" />
+    <ClCompile Include="19. 字符串截取.cpp" />
     <ClCompile Include="2. 预处理命令01.cpp" />
+    <ClCompile Include="20. 联合体.cpp" />
+    <ClCompile Include="21. 枚举.cpp" />
     <ClCompile Include="3. 预处理命令02.cpp" />
-    <ClCompile Include="4. strcmp的用法.cpp" />
+    <ClCompile Include="4. 字符串比较.cpp" />
     <ClCompile Include="5. 命名空间.cpp" />
     <ClCompile Include="6. 子类调用父类构造函数.cpp" />
     <ClCompile Include="7. 函数指针01.cpp" />

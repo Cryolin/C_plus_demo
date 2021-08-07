@@ -24,7 +24,7 @@
     <ClCompile Include="3. 预处理命令02.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="4. strcmp的用法.cpp">
+    <ClCompile Include="4. 字符串比较.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="5. 命名空间.cpp">
@@ -52,6 +52,33 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="12. malloc和free.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13. realloc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14. 获取字符串长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15. 字符串转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16. 字符串查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17. 字符串拼接.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18. 字符串复制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19. 字符串截取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20. 联合体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21. 枚举.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
