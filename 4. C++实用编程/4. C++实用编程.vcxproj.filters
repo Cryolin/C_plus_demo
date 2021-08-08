@@ -81,5 +81,22 @@
     <ClCompile Include="21. 枚举.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="22. jni实现类（C++）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23. jni实现类（C）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="com_colin_jni_Main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="jni.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="jni_md.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

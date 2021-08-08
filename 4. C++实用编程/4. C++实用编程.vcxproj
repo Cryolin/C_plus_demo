@@ -153,6 +153,8 @@
     <ClCompile Include="2. 预处理命令01.cpp" />
     <ClCompile Include="20. 联合体.cpp" />
     <ClCompile Include="21. 枚举.cpp" />
+    <ClCompile Include="22. jni实现类（C++）.cpp" />
+    <ClCompile Include="23. jni实现类（C）.c" />
     <ClCompile Include="3. 预处理命令02.cpp" />
     <ClCompile Include="4. 字符串比较.cpp" />
     <ClCompile Include="5. 命名空间.cpp" />
@@ -161,6 +163,11 @@
     <ClCompile Include="8. 函数指针02.cpp" />
     <ClCompile Include="9. 函数指针03.cpp" />
     <ClCompile Include="test.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="com_colin_jni_Main.h" />
+    <ClInclude Include="jni.h" />
+    <ClInclude Include="jni_md.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
