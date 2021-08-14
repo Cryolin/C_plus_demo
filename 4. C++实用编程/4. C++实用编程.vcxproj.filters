@@ -87,6 +87,12 @@
     <ClCompile Include="23. jni实现类（C）.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="24. =delete和=default.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25. 内联函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="com_colin_jni_Main.h">
