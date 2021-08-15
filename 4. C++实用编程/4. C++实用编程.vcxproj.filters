@@ -93,6 +93,15 @@
     <ClCompile Include="25. 内联函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="26. 获取线程信息.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27. lambda表达式：mutable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28. call_once和once_flag.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="com_colin_jni_Main.h">

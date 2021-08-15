@@ -1,18 +1,18 @@
-#include <iostream>
-using namespace std;
-
-inline const char* num_check(int v)
-{
-    return (v % 2 > 0) ? "奇" : "偶";
-}
-
-int main()
-{
-    int i;
-    for (i = 0; i < 100; i++)
-    {
-        cout << i << " 是 " << num_check(i) << " 数" << endl;
-    }
-
-	system("pause");
-}
+//#include <iostream>
+//using namespace std;
+//
+//inline const char* num_check(int v)
+//{
+//    return (v % 2 > 0) ? "奇" : "偶";
+//}
+//
+//int main()
+//{
+//    int i;
+//    for (i = 0; i < 100; i++)
+//    {
+//        cout << i << " 是 " << num_check(i) << " 数" << endl;
+//    }
+//
+//	system("pause");
+//}
