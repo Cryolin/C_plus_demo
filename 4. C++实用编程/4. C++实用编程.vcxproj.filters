@@ -102,6 +102,9 @@
     <ClCompile Include="28. call_once和once_flag.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="29. 给命名空间起别名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="com_colin_jni_Main.h">

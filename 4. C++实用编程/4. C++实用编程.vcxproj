@@ -160,6 +160,7 @@
     <ClCompile Include="26. 获取线程信息.cpp" />
     <ClCompile Include="27. lambda表达式：mutable.cpp" />
     <ClCompile Include="28. call_once和once_flag.cpp" />
+    <ClCompile Include="29. 给命名空间起别名.cpp" />
     <ClCompile Include="3. 预处理命令02.cpp" />
     <ClCompile Include="4. 字符串比较.cpp" />
     <ClCompile Include="5. 命名空间.cpp" />
