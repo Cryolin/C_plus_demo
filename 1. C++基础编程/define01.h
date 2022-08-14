@@ -3,6 +3,6 @@
 
 using namespace std;
 
-//#define MAX 10
-//#define MAX 20
-//#define MAX 30
+#define MAX 10
+#define MAX 20
+#define MAX 30

@@ -2,8 +2,8 @@
 using namespace std;
 
 // 文件开头，通过#define 常量名 常量值，定义常量
-//#define Day 7
-//
+#define Day 7
+
 //int main() {
 //	cout << "一周有" << Day << "天" << endl;
 //

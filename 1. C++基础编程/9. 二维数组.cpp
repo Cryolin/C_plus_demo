@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
-//int a;
-//int arr[5];
-//
+int a;
+int arr[5];
+
 //int main() {
 //	// 二维数组的定义方式
 //	// 数据类型 数组名[数组行数][数组列数]

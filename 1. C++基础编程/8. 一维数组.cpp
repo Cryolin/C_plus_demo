@@ -1,6 +1,6 @@
-//#include <iostream>
-//using namespace std;
-//
+#include <iostream>
+using namespace std;
+
 //int main() {
 //	// 一维数组的定义方式
 //	// 数据类型 数组名[数组长度]
