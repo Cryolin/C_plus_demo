@@ -152,6 +152,20 @@
     <ClCompile Include="2.6 convert.cpp" />
     <ClCompile Include="2.6.cpp" />
     <ClCompile Include="2.7.cpp" />
+    <ClCompile Include="3.1 limits.cpp" />
+    <ClCompile Include="3.10 arith.cpp" />
+    <ClCompile Include="3.11 divide.cpp" />
+    <ClCompile Include="3.12 mudulus.cpp" />
+    <ClCompile Include="3.13 assign.cpp" />
+    <ClCompile Include="3.14 typecast.cpp" />
+    <ClCompile Include="3.2 exceed.cpp" />
+    <ClCompile Include="3.3 hexoct.cpp" />
+    <ClCompile Include="3.4 hexoct2.cpp" />
+    <ClCompile Include="3.5 chartype.cpp" />
+    <ClCompile Include="3.6 morechar.cpp" />
+    <ClCompile Include="3.7 bondini.cpp" />
+    <ClCompile Include="3.8 floatnum.cpp" />
+    <ClCompile Include="3.9 fltadd.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
