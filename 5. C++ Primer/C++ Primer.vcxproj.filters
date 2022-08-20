@@ -16,10 +16,52 @@
     <Filter Include="源文件\第2章 开始学习C++">
       <UniqueIdentifier>{0f25e40d-6a0d-4844-9393-ad3d3663fa07}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第2章 开始学习C++\编程练习">
+      <UniqueIdentifier>{d0bbc544-5156-4e3a-8b88-af7effd27b62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第3章 处理数据">
+      <UniqueIdentifier>{cb72c809-0c75-42c2-a4ea-656f489dbe4b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
       <Filter>源文件\第2章 开始学习C++</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2 carrots.cpp">
+      <Filter>源文件\第2章 开始学习C++</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3 getinfo.cpp">
+      <Filter>源文件\第2章 开始学习C++</Filter>
+    </ClCompile>
+    <ClCompile Include="2.4 sqrt.cpp">
+      <Filter>源文件\第2章 开始学习C++</Filter>
+    </ClCompile>
+    <ClCompile Include="2.5 ourfunc.cpp">
+      <Filter>源文件\第2章 开始学习C++</Filter>
+    </ClCompile>
+    <ClCompile Include="2.6 convert.cpp">
+      <Filter>源文件\第2章 开始学习C++</Filter>
+    </ClCompile>
+    <ClCompile Include="2.1.cpp">
+      <Filter>源文件\第2章 开始学习C++\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.cpp">
+      <Filter>源文件\第2章 开始学习C++\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.cpp">
+      <Filter>源文件\第2章 开始学习C++\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="2.4.cpp">
+      <Filter>源文件\第2章 开始学习C++\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="2.5.cpp">
+      <Filter>源文件\第2章 开始学习C++\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="2.6.cpp">
+      <Filter>源文件\第2章 开始学习C++\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="2.7.cpp">
+      <Filter>源文件\第2章 开始学习C++\编程练习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

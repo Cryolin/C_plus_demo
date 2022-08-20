@@ -140,6 +140,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp" />
+    <ClCompile Include="2.1.cpp" />
+    <ClCompile Include="2.2 carrots.cpp" />
+    <ClCompile Include="2.2.cpp" />
+    <ClCompile Include="2.3 getinfo.cpp" />
+    <ClCompile Include="2.3.cpp" />
+    <ClCompile Include="2.4 sqrt.cpp" />
+    <ClCompile Include="2.4.cpp" />
+    <ClCompile Include="2.5 ourfunc.cpp" />
+    <ClCompile Include="2.5.cpp" />
+    <ClCompile Include="2.6 convert.cpp" />
+    <ClCompile Include="2.6.cpp" />
+    <ClCompile Include="2.7.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
