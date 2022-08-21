@@ -22,6 +22,12 @@
     <Filter Include="源文件\第3章 处理数据">
       <UniqueIdentifier>{cb72c809-0c75-42c2-a4ea-656f489dbe4b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第3章 处理数据\编程练习">
+      <UniqueIdentifier>{094b0d34-2cf4-4c6e-9bad-04849a74e680}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第4章 复合类型">
+      <UniqueIdentifier>{17fc19de-0fd8-43ac-b31b-45270646eb21}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -104,6 +110,30 @@
     </ClCompile>
     <ClCompile Include="3.14 typecast.cpp">
       <Filter>源文件\第3章 处理数据</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.cpp">
+      <Filter>源文件\第3章 处理数据\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.cpp">
+      <Filter>源文件\第3章 处理数据\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3.cpp">
+      <Filter>源文件\第3章 处理数据\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4.cpp">
+      <Filter>源文件\第3章 处理数据\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5.cpp">
+      <Filter>源文件\第3章 处理数据\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6.cpp">
+      <Filter>源文件\第3章 处理数据\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7.cpp">
+      <Filter>源文件\第3章 处理数据\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1 arrayone.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
