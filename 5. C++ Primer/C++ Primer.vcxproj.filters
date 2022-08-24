@@ -135,5 +135,32 @@
     <ClCompile Include="4.1 arrayone.cpp">
       <Filter>源文件\第4章 复合类型</Filter>
     </ClCompile>
+    <ClCompile Include="4.2 string.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2 instr1.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.3 instr2.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.5 instr3.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.6 numstr.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.7 strtype1.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.8 strtype2.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.9 strtype3.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.10 strtype4.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
