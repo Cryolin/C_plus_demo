@@ -175,6 +175,9 @@
     <ClCompile Include="3.9 fltadd.cpp" />
     <ClCompile Include="4.1 arrayone.cpp" />
     <ClCompile Include="4.10 strtype4.cpp" />
+    <ClCompile Include="4.11 structur.cpp" />
+    <ClCompile Include="4.12 assgn_st.cpp" />
+    <ClCompile Include="4.13 arrstruc.cpp" />
     <ClCompile Include="4.2 instr1.cpp" />
     <ClCompile Include="4.2 string.cpp" />
     <ClCompile Include="4.3 instr2.cpp" />

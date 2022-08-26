@@ -162,5 +162,14 @@
     <ClCompile Include="4.10 strtype4.cpp">
       <Filter>源文件\第4章 复合类型</Filter>
     </ClCompile>
+    <ClCompile Include="4.11 structur.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.12 assgn_st.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.13 arrstruc.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
