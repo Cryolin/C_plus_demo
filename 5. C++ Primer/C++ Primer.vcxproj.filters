@@ -171,5 +171,32 @@
     <ClCompile Include="4.13 arrstruc.cpp">
       <Filter>源文件\第4章 复合类型</Filter>
     </ClCompile>
+    <ClCompile Include="4.14 address.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.15 pointer.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.16 init_ptr.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.17 use_new.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.18 arraynew.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.19 addpntrs.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.20 ptrstr.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.21 newstrct.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.22 delete.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

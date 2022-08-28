@@ -1,2 +1,37 @@
-﻿  4.13 arrstruc.cpp
+﻿  4.21 newstrct.cpp
+  4.22 delete.cpp
+  正在生成代码...
+3.9 fltadd.obj : warning LNK4204: “”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.8 floatnum.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.7.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.7 bondini.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.6.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.6 morechar.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.5.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.5 chartype.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.4.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.4 hexoct2.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.3.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.3 hexoct.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.2.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.2 exceed.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.14 typecast.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.13 assign.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.12 mudulus.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.11 divide.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.10 arith.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.1.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+3.1 limits.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.7.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.6.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.6 convert.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.5.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.5 ourfunc.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.4.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.4 sqrt.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.3.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.3 getinfo.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.2.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.2 carrots.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+2.1.obj : warning LNK4204: “D:\git\C_plus_demo\5. C++ Primer\x64\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
   C++ Primer.vcxproj -> D:\git\C_plus_demo\5. C++ Primer\x64\Debug\C++ Primer.exe

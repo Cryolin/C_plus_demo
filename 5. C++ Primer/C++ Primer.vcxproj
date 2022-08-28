@@ -178,8 +178,17 @@
     <ClCompile Include="4.11 structur.cpp" />
     <ClCompile Include="4.12 assgn_st.cpp" />
     <ClCompile Include="4.13 arrstruc.cpp" />
+    <ClCompile Include="4.14 address.cpp" />
+    <ClCompile Include="4.15 pointer.cpp" />
+    <ClCompile Include="4.16 init_ptr.cpp" />
+    <ClCompile Include="4.17 use_new.cpp" />
+    <ClCompile Include="4.18 arraynew.cpp" />
+    <ClCompile Include="4.19 addpntrs.cpp" />
     <ClCompile Include="4.2 instr1.cpp" />
     <ClCompile Include="4.2 string.cpp" />
+    <ClCompile Include="4.20 ptrstr.cpp" />
+    <ClCompile Include="4.21 newstrct.cpp" />
+    <ClCompile Include="4.22 delete.cpp" />
     <ClCompile Include="4.3 instr2.cpp" />
     <ClCompile Include="4.5 instr3.cpp" />
     <ClCompile Include="4.6 numstr.cpp" />
