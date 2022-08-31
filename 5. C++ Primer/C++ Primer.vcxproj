@@ -189,6 +189,8 @@
     <ClCompile Include="4.20 ptrstr.cpp" />
     <ClCompile Include="4.21 newstrct.cpp" />
     <ClCompile Include="4.22 delete.cpp" />
+    <ClCompile Include="4.23 mixtypes.cpp" />
+    <ClCompile Include="4.24 choices.cpp" />
     <ClCompile Include="4.3 instr2.cpp" />
     <ClCompile Include="4.5 instr3.cpp" />
     <ClCompile Include="4.6 numstr.cpp" />

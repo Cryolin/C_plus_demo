@@ -198,5 +198,11 @@
     <ClCompile Include="4.22 delete.cpp">
       <Filter>源文件\第4章 复合类型</Filter>
     </ClCompile>
+    <ClCompile Include="4.23 mixtypes.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.24 choices.cpp">
+      <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
