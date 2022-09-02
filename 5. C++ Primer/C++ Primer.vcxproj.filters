@@ -28,6 +28,9 @@
     <Filter Include="源文件\第4章 复合类型">
       <UniqueIdentifier>{17fc19de-0fd8-43ac-b31b-45270646eb21}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第4章 复合类型\编程练习">
+      <UniqueIdentifier>{9c49d72c-a183-49de-affb-29532eeda846}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -138,10 +141,10 @@
     <ClCompile Include="4.2 string.cpp">
       <Filter>源文件\第4章 复合类型</Filter>
     </ClCompile>
-    <ClCompile Include="4.2 instr1.cpp">
+    <ClCompile Include="4.3 instr1.cpp">
       <Filter>源文件\第4章 复合类型</Filter>
     </ClCompile>
-    <ClCompile Include="4.3 instr2.cpp">
+    <ClCompile Include="4.4 instr2.cpp">
       <Filter>源文件\第4章 复合类型</Filter>
     </ClCompile>
     <ClCompile Include="4.5 instr3.cpp">
@@ -203,6 +206,36 @@
     </ClCompile>
     <ClCompile Include="4.24 choices.cpp">
       <Filter>源文件\第4章 复合类型</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.3.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.4.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.5.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.6.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.7.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.8.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.9.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="4.10.cpp">
+      <Filter>源文件\第4章 复合类型\编程练习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
