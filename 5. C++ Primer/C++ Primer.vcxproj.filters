@@ -31,6 +31,9 @@
     <Filter Include="源文件\第4章 复合类型\编程练习">
       <UniqueIdentifier>{9c49d72c-a183-49de-affb-29532eeda846}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第5章 循环和关系表达式">
+      <UniqueIdentifier>{0b57b59f-c3f3-410a-a778-3bf554b25436}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -236,6 +239,33 @@
     </ClCompile>
     <ClCompile Include="4.10.cpp">
       <Filter>源文件\第4章 复合类型\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1 forloop.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2 num_test.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.3 express.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.4 formore.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.5 bigstep.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.6 forstr1.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.7 plus_one.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.8 block.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.9 forstr2.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
