@@ -267,5 +267,38 @@
     <ClCompile Include="5.9 forstr2.cpp">
       <Filter>源文件\第5章 循环和关系表达式</Filter>
     </ClCompile>
+    <ClCompile Include="5.10 equal.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.11 compstr1.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.12 compstr2.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.13 while.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.14 waiting.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.15 dowhile.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.16 textin1.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.17 textin2.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.18 textin3.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.19 textin4.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.20 nested.cpp">
+      <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
