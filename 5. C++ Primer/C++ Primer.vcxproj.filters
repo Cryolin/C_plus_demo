@@ -34,6 +34,9 @@
     <Filter Include="源文件\第5章 循环和关系表达式">
       <UniqueIdentifier>{0b57b59f-c3f3-410a-a778-3bf554b25436}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第5章 循环和关系表达式\编程练习">
+      <UniqueIdentifier>{c6a4c56e-3ec1-4240-aaf1-5f38ad06dee4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -299,6 +302,36 @@
     </ClCompile>
     <ClCompile Include="5.20 nested.cpp">
       <Filter>源文件\第5章 循环和关系表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.3.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.4.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.5.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.6.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.7.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.8.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.9.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="5.10.cpp">
+      <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

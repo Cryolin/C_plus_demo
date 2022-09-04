@@ -208,7 +208,9 @@
     <ClCompile Include="4.9 strtype3.cpp" />
     <ClCompile Include="4.9.cpp" />
     <ClCompile Include="5.1 forloop.cpp" />
+    <ClCompile Include="5.1.cpp" />
     <ClCompile Include="5.10 equal.cpp" />
+    <ClCompile Include="5.10.cpp" />
     <ClCompile Include="5.11 compstr1.cpp" />
     <ClCompile Include="5.12 compstr2.cpp" />
     <ClCompile Include="5.13 while.cpp" />
@@ -219,14 +221,22 @@
     <ClCompile Include="5.18 textin3.cpp" />
     <ClCompile Include="5.19 textin4.cpp" />
     <ClCompile Include="5.2 num_test.cpp" />
+    <ClCompile Include="5.2.cpp" />
     <ClCompile Include="5.20 nested.cpp" />
     <ClCompile Include="5.3 express.cpp" />
+    <ClCompile Include="5.3.cpp" />
     <ClCompile Include="5.4 formore.cpp" />
+    <ClCompile Include="5.4.cpp" />
     <ClCompile Include="5.5 bigstep.cpp" />
+    <ClCompile Include="5.5.cpp" />
     <ClCompile Include="5.6 forstr1.cpp" />
+    <ClCompile Include="5.6.cpp" />
     <ClCompile Include="5.7 plus_one.cpp" />
+    <ClCompile Include="5.7.cpp" />
     <ClCompile Include="5.8 block.cpp" />
+    <ClCompile Include="5.8.cpp" />
     <ClCompile Include="5.9 forstr2.cpp" />
+    <ClCompile Include="5.9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
