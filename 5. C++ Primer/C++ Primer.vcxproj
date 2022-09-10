@@ -237,6 +237,12 @@
     <ClCompile Include="5.8.cpp" />
     <ClCompile Include="5.9 forstr2.cpp" />
     <ClCompile Include="5.9.cpp" />
+    <ClCompile Include="6.1 if.cpp" />
+    <ClCompile Include="6.2 ifelse.cpp" />
+    <ClCompile Include="6.3 ifelseif.cpp" />
+    <ClCompile Include="6.4 or.cpp" />
+    <ClCompile Include="6.5 and.cpp" />
+    <ClCompile Include="6.6 more_and.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

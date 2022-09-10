@@ -37,6 +37,9 @@
     <Filter Include="源文件\第5章 循环和关系表达式\编程练习">
       <UniqueIdentifier>{c6a4c56e-3ec1-4240-aaf1-5f38ad06dee4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第6章 分支语句和逻辑运算符">
+      <UniqueIdentifier>{8d0f394c-573a-4204-9c26-da45a3a9762c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -332,6 +335,24 @@
     </ClCompile>
     <ClCompile Include="5.10.cpp">
       <Filter>源文件\第5章 循环和关系表达式\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1 if.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2 ifelse.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3 ifelseif.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.4 or.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.5 and.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.6 more_and.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
