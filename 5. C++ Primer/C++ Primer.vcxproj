@@ -243,6 +243,9 @@
     <ClCompile Include="6.4 or.cpp" />
     <ClCompile Include="6.5 and.cpp" />
     <ClCompile Include="6.6 more_and.cpp" />
+    <ClCompile Include="6.7 not.cpp" />
+    <ClCompile Include="6.8 cctypes.cpp" />
+    <ClCompile Include="6.9 condit.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -354,5 +354,14 @@
     <ClCompile Include="6.6 more_and.cpp">
       <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
     </ClCompile>
+    <ClCompile Include="6.7 not.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.8 cctypes.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.9 condit.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
