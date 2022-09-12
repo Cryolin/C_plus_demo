@@ -40,6 +40,9 @@
     <Filter Include="源文件\第6章 分支语句和逻辑运算符">
       <UniqueIdentifier>{8d0f394c-573a-4204-9c26-da45a3a9762c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第6章 分支语句和逻辑运算符\编程练习">
+      <UniqueIdentifier>{4e1575ef-5ba8-46db-8558-379bb815eef2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -362,6 +365,54 @@
     </ClCompile>
     <ClCompile Include="6.9 condit.cpp">
       <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.10 switch.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.11 enum.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.12 jump.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.13 cinfish.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.14 cingolf.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.15 outfile.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.16 sumafile.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6.4.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6.5.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6.6.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6.7.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6.8.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="6.9.cpp">
+      <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
