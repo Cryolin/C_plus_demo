@@ -262,6 +262,10 @@
     <ClCompile Include="6.8.cpp" />
     <ClCompile Include="6.9 condit.cpp" />
     <ClCompile Include="6.9.cpp" />
+    <ClCompile Include="7.1 calling.cpp" />
+    <ClCompile Include="7.2 protos.cpp" />
+    <ClCompile Include="7.3 twoarg.cpp" />
+    <ClCompile Include="7.4 lotto.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

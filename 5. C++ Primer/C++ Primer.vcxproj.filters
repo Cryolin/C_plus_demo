@@ -43,6 +43,9 @@
     <Filter Include="源文件\第6章 分支语句和逻辑运算符\编程练习">
       <UniqueIdentifier>{4e1575ef-5ba8-46db-8558-379bb815eef2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第7章 函数--C++的编程模块">
+      <UniqueIdentifier>{20d06418-98b5-411d-8638-65129a623f91}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -413,6 +416,18 @@
     </ClCompile>
     <ClCompile Include="6.9.cpp">
       <Filter>源文件\第6章 分支语句和逻辑运算符\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1 calling.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.2 protos.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.3 twoarg.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.4 lotto.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
