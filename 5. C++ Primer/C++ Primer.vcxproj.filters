@@ -429,5 +429,44 @@
     <ClCompile Include="7.4 lotto.cpp">
       <Filter>源文件\第7章 函数--C++的编程模块</Filter>
     </ClCompile>
+    <ClCompile Include="7.5 arrfun1.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.6 arrfun2.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.7 arrfun3.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8 arrfun4.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.9 strgfun.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.10 strgback.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.11 travel.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.12 atrctfun.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.13 strctptr.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.14 topfive.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.15 arrobj.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.16 recur.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.17 ruler.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -29,26 +29,26 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -263,9 +263,22 @@
     <ClCompile Include="6.9 condit.cpp" />
     <ClCompile Include="6.9.cpp" />
     <ClCompile Include="7.1 calling.cpp" />
+    <ClCompile Include="7.10 strgback.cpp" />
+    <ClCompile Include="7.11 travel.cpp" />
+    <ClCompile Include="7.12 atrctfun.cpp" />
+    <ClCompile Include="7.13 strctptr.cpp" />
+    <ClCompile Include="7.14 topfive.cpp" />
+    <ClCompile Include="7.15 arrobj.cpp" />
+    <ClCompile Include="7.16 recur.cpp" />
+    <ClCompile Include="7.17 ruler.cpp" />
     <ClCompile Include="7.2 protos.cpp" />
+    <ClCompile Include="7.7 arrfun3.cpp" />
     <ClCompile Include="7.3 twoarg.cpp" />
     <ClCompile Include="7.4 lotto.cpp" />
+    <ClCompile Include="7.5 arrfun1.cpp" />
+    <ClCompile Include="7.6 arrfun2.cpp" />
+    <ClCompile Include="7.8 arrfun4.cpp" />
+    <ClCompile Include="7.9 strgfun.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
