@@ -263,7 +263,9 @@
     <ClCompile Include="6.9 condit.cpp" />
     <ClCompile Include="6.9.cpp" />
     <ClCompile Include="7.1 calling.cpp" />
+    <ClCompile Include="7.1.cpp" />
     <ClCompile Include="7.10 strgback.cpp" />
+    <ClCompile Include="7.10.cpp" />
     <ClCompile Include="7.11 travel.cpp" />
     <ClCompile Include="7.12 atrctfun.cpp" />
     <ClCompile Include="7.13 strctptr.cpp" />
@@ -271,14 +273,25 @@
     <ClCompile Include="7.15 arrobj.cpp" />
     <ClCompile Include="7.16 recur.cpp" />
     <ClCompile Include="7.17 ruler.cpp" />
+    <ClCompile Include="7.18 fun_ptr.cpp" />
+    <ClCompile Include="7.19 arfupt.cpp" />
     <ClCompile Include="7.2 protos.cpp" />
+    <ClCompile Include="7.2.cpp" />
+    <ClCompile Include="7.3.cpp" />
+    <ClCompile Include="7.4.cpp" />
+    <ClCompile Include="7.5.cpp" />
+    <ClCompile Include="7.6.cpp" />
     <ClCompile Include="7.7 arrfun3.cpp" />
     <ClCompile Include="7.3 twoarg.cpp" />
     <ClCompile Include="7.4 lotto.cpp" />
     <ClCompile Include="7.5 arrfun1.cpp" />
     <ClCompile Include="7.6 arrfun2.cpp" />
+    <ClCompile Include="7.7.cpp" />
     <ClCompile Include="7.8 arrfun4.cpp" />
+    <ClCompile Include="7.8.1.cpp" />
+    <ClCompile Include="7.8.2.cpp" />
     <ClCompile Include="7.9 strgfun.cpp" />
+    <ClCompile Include="7.9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

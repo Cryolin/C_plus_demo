@@ -46,6 +46,9 @@
     <Filter Include="源文件\第7章 函数--C++的编程模块">
       <UniqueIdentifier>{20d06418-98b5-411d-8638-65129a623f91}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第7章 函数--C++的编程模块\编程练习">
+      <UniqueIdentifier>{59195122-2f91-4f56-b85c-3fc33f3c9cc7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -467,6 +470,45 @@
     </ClCompile>
     <ClCompile Include="7.17 ruler.cpp">
       <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.18 fun_ptr.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.19 arfupt.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.2.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.3.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.4.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.5.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.6.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.10.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.7.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8.1.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8.2.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="7.9.cpp">
+      <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
