@@ -292,6 +292,7 @@
     <ClCompile Include="7.8.2.cpp" />
     <ClCompile Include="7.9 strgfun.cpp" />
     <ClCompile Include="7.9.cpp" />
+    <ClCompile Include="8.1 inline.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

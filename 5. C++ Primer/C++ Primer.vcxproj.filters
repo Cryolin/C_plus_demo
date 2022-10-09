@@ -49,6 +49,9 @@
     <Filter Include="源文件\第7章 函数--C++的编程模块\编程练习">
       <UniqueIdentifier>{59195122-2f91-4f56-b85c-3fc33f3c9cc7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第8章 函数探幽">
+      <UniqueIdentifier>{c80a8cf0-dee4-4d21-a9a6-28df4960134a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -509,6 +512,9 @@
     </ClCompile>
     <ClCompile Include="7.9.cpp">
       <Filter>源文件\第7章 函数--C++的编程模块\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="8.1 inline.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
