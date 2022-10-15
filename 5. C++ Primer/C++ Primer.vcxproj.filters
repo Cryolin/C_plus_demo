@@ -516,5 +516,26 @@
     <ClCompile Include="8.1 inline.cpp">
       <Filter>源文件\第8章 函数探幽</Filter>
     </ClCompile>
+    <ClCompile Include="8.2 firstref.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.3 secref.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.4 swaps.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.5 cubes.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.6 strtref.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.7 strquote.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.8 filefunc.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

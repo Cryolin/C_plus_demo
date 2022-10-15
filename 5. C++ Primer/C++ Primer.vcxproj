@@ -293,6 +293,13 @@
     <ClCompile Include="7.9 strgfun.cpp" />
     <ClCompile Include="7.9.cpp" />
     <ClCompile Include="8.1 inline.cpp" />
+    <ClCompile Include="8.2 firstref.cpp" />
+    <ClCompile Include="8.3 secref.cpp" />
+    <ClCompile Include="8.4 swaps.cpp" />
+    <ClCompile Include="8.5 cubes.cpp" />
+    <ClCompile Include="8.6 strtref.cpp" />
+    <ClCompile Include="8.7 strquote.cpp" />
+    <ClCompile Include="8.8 filefunc.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
