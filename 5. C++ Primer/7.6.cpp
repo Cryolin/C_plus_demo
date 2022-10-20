@@ -1,1 +1,7 @@
-// 与7.2类似，略
+//#include <iostream>
+//using namespace std;
+//
+//int main()
+//{
+//	// 与7.2类似，略
+//}
