@@ -295,6 +295,10 @@
     <ClCompile Include="8.1 inline.cpp" />
     <ClCompile Include="8.10 leftover.cpp" />
     <ClCompile Include="8.11 funtemp.cpp" />
+    <ClCompile Include="8.12 twotemps.cpp" />
+    <ClCompile Include="8.13 twoswap.cpp" />
+    <ClCompile Include="8.14 temptempover.cpp" />
+    <ClCompile Include="8.15 choices.cpp" />
     <ClCompile Include="8.2 firstref.cpp" />
     <ClCompile Include="8.3 secref.cpp" />
     <ClCompile Include="8.4 swaps.cpp" />

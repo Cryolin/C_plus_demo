@@ -546,5 +546,17 @@
     <ClCompile Include="8.11 funtemp.cpp">
       <Filter>源文件\第8章 函数探幽</Filter>
     </ClCompile>
+    <ClCompile Include="8.12 twotemps.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.13 twoswap.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.14 temptempover.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.15 choices.cpp">
+      <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,5 +1,14 @@
-﻿  5.9 forstr2.cpp
-D:\git\C_plus_demo\5. C++ Primer\5.9 forstr2.cpp(12,2): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-  8.11 funtemp.cpp
+﻿  8.13 twoswap.cpp
+  8.15 choices.cpp
+D:\git\C_plus_demo\5. C++ Primer\8.15 choices.cpp(26,25): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\git\C_plus_demo\5. C++ Primer\8.15 choices.cpp(26,22): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
   正在生成代码...
   C++ Primer.vcxproj -> D:\git\C_plus_demo\5. C++ Primer\x64\Debug\C++ Primer.exe
