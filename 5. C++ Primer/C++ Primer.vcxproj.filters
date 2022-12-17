@@ -52,6 +52,9 @@
     <Filter Include="源文件\第8章 函数探幽">
       <UniqueIdentifier>{c80a8cf0-dee4-4d21-a9a6-28df4960134a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第8章 函数探幽\编程练习">
+      <UniqueIdentifier>{a3157dbe-8ba0-4e90-8cef-881b5d63eff7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -557,6 +560,27 @@
     </ClCompile>
     <ClCompile Include="8.15 choices.cpp">
       <Filter>源文件\第8章 函数探幽</Filter>
+    </ClCompile>
+    <ClCompile Include="8.1.cpp">
+      <Filter>源文件\第8章 函数探幽\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="8.2.cpp">
+      <Filter>源文件\第8章 函数探幽\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="8.3.cpp">
+      <Filter>源文件\第8章 函数探幽\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="8.4.cpp">
+      <Filter>源文件\第8章 函数探幽\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="8.5.cpp">
+      <Filter>源文件\第8章 函数探幽\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="8.6.cpp">
+      <Filter>源文件\第8章 函数探幽\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="8.7.cpp">
+      <Filter>源文件\第8章 函数探幽\编程练习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

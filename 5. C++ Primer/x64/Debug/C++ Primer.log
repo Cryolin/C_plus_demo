@@ -1,14 +1,2 @@
-﻿  8.13 twoswap.cpp
-  8.15 choices.cpp
-D:\git\C_plus_demo\5. C++ Primer\8.15 choices.cpp(26,25): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
-          with
-          [
-              T=int
-          ]
-D:\git\C_plus_demo\5. C++ Primer\8.15 choices.cpp(26,22): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
-          with
-          [
-              T=int
-          ]
-  正在生成代码...
+﻿  8.7.cpp
   C++ Primer.vcxproj -> D:\git\C_plus_demo\5. C++ Primer\x64\Debug\C++ Primer.exe
