@@ -55,6 +55,12 @@
     <Filter Include="源文件\第8章 函数探幽\编程练习">
       <UniqueIdentifier>{a3157dbe-8ba0-4e90-8cef-881b5d63eff7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第9章 内存模型和名称空间">
+      <UniqueIdentifier>{c228e95f-7681-4160-b3a8-7dd46227081e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第9章 内存模型和名称空间\9.1-9.3">
+      <UniqueIdentifier>{2dacc455-71c3-47ef-970d-d5a1a6bb3c53}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -582,5 +588,16 @@
     <ClCompile Include="8.7.cpp">
       <Filter>源文件\第8章 函数探幽\编程练习</Filter>
     </ClCompile>
+    <ClCompile Include="9.2 file1.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\9.1-9.3</Filter>
+    </ClCompile>
+    <ClCompile Include="9.2 file2.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\9.1-9.3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="9.1 coordin.h">
+      <Filter>源文件\第9章 内存模型和名称空间\9.1-9.3</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
