@@ -316,6 +316,7 @@
     <ClCompile Include="8.9 left.cpp" />
     <ClCompile Include="9.2 file1.cpp" />
     <ClCompile Include="9.2 file2.cpp" />
+    <ClCompile Include="9.4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h" />

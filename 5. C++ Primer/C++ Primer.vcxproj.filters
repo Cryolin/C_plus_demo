@@ -594,6 +594,9 @@
     <ClCompile Include="9.2 file2.cpp">
       <Filter>源文件\第9章 内存模型和名称空间\9.1-9.3</Filter>
     </ClCompile>
+    <ClCompile Include="9.4.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
