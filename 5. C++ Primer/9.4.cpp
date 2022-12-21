@@ -1,19 +1,10 @@
 #include <iostream>
-
-namespace {
-	int a = 1;
-}
-
-void show();
+using namespace std;
 
 int main()
 {
+	const char* strs[2] = { "a", "b" };
+	strs[0] = "xixi";
 
-	show();
 	return 0;
-}
-
-void show()
-{
-	std::cout << a << std::endl;
 }
