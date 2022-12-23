@@ -316,7 +316,12 @@
     <ClCompile Include="8.9 left.cpp" />
     <ClCompile Include="9.2 file1.cpp" />
     <ClCompile Include="9.2 file2.cpp" />
-    <ClCompile Include="9.4.cpp" />
+    <ClCompile Include="9.4 auto.cpp" />
+    <ClCompile Include="9.5 external.cpp" />
+    <ClCompile Include="9.6 support.cpp" />
+    <ClCompile Include="9.7 twofile1.cpp" />
+    <ClCompile Include="9.8 twofile2.cpp" />
+    <ClCompile Include="9.9 static.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h" />

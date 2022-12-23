@@ -61,6 +61,12 @@
     <Filter Include="源文件\第9章 内存模型和名称空间\9.1-9.3">
       <UniqueIdentifier>{2dacc455-71c3-47ef-970d-d5a1a6bb3c53}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第9章 内存模型和名称空间\9.5-9.6">
+      <UniqueIdentifier>{69fb129b-1663-426b-be04-57f583f7b117}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第9章 内存模型和名称空间\9.7-9.8">
+      <UniqueIdentifier>{df31aa00-d770-48f9-86e5-2d87341f5079}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -594,7 +600,22 @@
     <ClCompile Include="9.2 file2.cpp">
       <Filter>源文件\第9章 内存模型和名称空间\9.1-9.3</Filter>
     </ClCompile>
-    <ClCompile Include="9.4.cpp">
+    <ClCompile Include="9.4 auto.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间</Filter>
+    </ClCompile>
+    <ClCompile Include="9.5 external.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\9.5-9.6</Filter>
+    </ClCompile>
+    <ClCompile Include="9.6 support.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\9.5-9.6</Filter>
+    </ClCompile>
+    <ClCompile Include="9.7 twofile1.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\9.7-9.8</Filter>
+    </ClCompile>
+    <ClCompile Include="9.8 twofile2.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\9.7-9.8</Filter>
+    </ClCompile>
+    <ClCompile Include="9.9 static.cpp">
       <Filter>源文件\第9章 内存模型和名称空间</Filter>
     </ClCompile>
   </ItemGroup>
