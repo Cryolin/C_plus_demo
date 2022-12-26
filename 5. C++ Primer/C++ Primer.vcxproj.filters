@@ -67,6 +67,9 @@
     <Filter Include="源文件\第9章 内存模型和名称空间\9.7-9.8">
       <UniqueIdentifier>{df31aa00-d770-48f9-86e5-2d87341f5079}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第9章 内存模型和名称空间\9.11-9.13">
+      <UniqueIdentifier>{cbc87f83-7af4-4b9c-a2b0-1f91f355a04e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -618,10 +621,22 @@
     <ClCompile Include="9.9 static.cpp">
       <Filter>源文件\第9章 内存模型和名称空间</Filter>
     </ClCompile>
+    <ClCompile Include="9.10 newplace.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间</Filter>
+    </ClCompile>
+    <ClCompile Include="9.12 namesp.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\9.11-9.13</Filter>
+    </ClCompile>
+    <ClCompile Include="9.13 namessp.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\9.11-9.13</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
       <Filter>源文件\第9章 内存模型和名称空间\9.1-9.3</Filter>
+    </ClInclude>
+    <ClInclude Include="9.11 namesp.h">
+      <Filter>源文件\第9章 内存模型和名称空间\9.11-9.13</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
