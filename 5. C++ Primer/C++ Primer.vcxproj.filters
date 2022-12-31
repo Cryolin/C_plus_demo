@@ -70,6 +70,15 @@
     <Filter Include="源文件\第9章 内存模型和名称空间\9.11-9.13">
       <UniqueIdentifier>{cbc87f83-7af4-4b9c-a2b0-1f91f355a04e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第9章 内存模型和名称空间\编程练习">
+      <UniqueIdentifier>{042f2cb8-49f1-4c48-ab72-26873e89177c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第9章 内存模型和名称空间\编程练习\9.1">
+      <UniqueIdentifier>{8e5c2019-2de3-4c8b-8bd4-e0acddb595ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第9章 内存模型和名称空间\编程练习\9.4">
+      <UniqueIdentifier>{800ac7ad-4007-4854-b577-44de5974f252}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -630,6 +639,24 @@
     <ClCompile Include="9.13 namessp.cpp">
       <Filter>源文件\第9章 内存模型和名称空间\9.11-9.13</Filter>
     </ClCompile>
+    <ClCompile Include="9.2.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="9.3.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\编程练习</Filter>
+    </ClCompile>
+    <ClCompile Include="9.1.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\编程练习\9.1</Filter>
+    </ClCompile>
+    <ClCompile Include="golf.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\编程练习\9.1</Filter>
+    </ClCompile>
+    <ClCompile Include="9.4.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\编程练习\9.4</Filter>
+    </ClCompile>
+    <ClCompile Include="sales.cpp">
+      <Filter>源文件\第9章 内存模型和名称空间\编程练习\9.4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -637,6 +664,12 @@
     </ClInclude>
     <ClInclude Include="9.11 namesp.h">
       <Filter>源文件\第9章 内存模型和名称空间\9.11-9.13</Filter>
+    </ClInclude>
+    <ClInclude Include="golf.h">
+      <Filter>源文件\第9章 内存模型和名称空间\编程练习\9.1</Filter>
+    </ClInclude>
+    <ClInclude Include="sales.h">
+      <Filter>源文件\第9章 内存模型和名称空间\编程练习\9.4</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

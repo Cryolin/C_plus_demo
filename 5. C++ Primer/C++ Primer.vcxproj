@@ -314,21 +314,29 @@
     <ClCompile Include="8.7.cpp" />
     <ClCompile Include="8.8 filefunc.cpp" />
     <ClCompile Include="8.9 left.cpp" />
+    <ClCompile Include="9.1.cpp" />
     <ClCompile Include="9.10 newplace.cpp" />
     <ClCompile Include="9.12 namesp.cpp" />
     <ClCompile Include="9.13 namessp.cpp" />
     <ClCompile Include="9.2 file1.cpp" />
     <ClCompile Include="9.2 file2.cpp" />
+    <ClCompile Include="9.2.cpp" />
+    <ClCompile Include="9.3.cpp" />
     <ClCompile Include="9.4 auto.cpp" />
+    <ClCompile Include="9.4.cpp" />
     <ClCompile Include="9.5 external.cpp" />
     <ClCompile Include="9.6 support.cpp" />
     <ClCompile Include="9.7 twofile1.cpp" />
     <ClCompile Include="9.8 twofile2.cpp" />
     <ClCompile Include="9.9 static.cpp" />
+    <ClCompile Include="golf.cpp" />
+    <ClCompile Include="sales.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h" />
     <ClInclude Include="9.11 namesp.h" />
+    <ClInclude Include="golf.h" />
+    <ClInclude Include="sales.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
