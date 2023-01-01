@@ -79,6 +79,21 @@
     <Filter Include="源文件\第9章 内存模型和名称空间\编程练习\9.4">
       <UniqueIdentifier>{800ac7ad-4007-4854-b577-44de5974f252}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第10章 对象和类">
+      <UniqueIdentifier>{b43fcc33-235b-4471-ada1-3d3886b20787}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\10.1-10.3">
+      <UniqueIdentifier>{55c3d1d8-3c0d-40d4-89e8-ebb4a223025e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\10.4-10.6">
+      <UniqueIdentifier>{b1a81b90-f102-4f77-bf59-4f157f8056c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\10.7-10.9">
+      <UniqueIdentifier>{3d7db6c6-2a48-417f-9720-350eb6058179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\10.10-10.12">
+      <UniqueIdentifier>{e791d716-b008-4169-9361-bf074fbe8c83}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -657,6 +672,30 @@
     <ClCompile Include="sales.cpp">
       <Filter>源文件\第9章 内存模型和名称空间\编程练习\9.4</Filter>
     </ClCompile>
+    <ClCompile Include="10.2 stock00.cpp">
+      <Filter>源文件\第10章 对象和类\10.1-10.3</Filter>
+    </ClCompile>
+    <ClCompile Include="10.3 usestock0.cpp">
+      <Filter>源文件\第10章 对象和类\10.1-10.3</Filter>
+    </ClCompile>
+    <ClCompile Include="10.5 stock10.cpp">
+      <Filter>源文件\第10章 对象和类\10.4-10.6</Filter>
+    </ClCompile>
+    <ClCompile Include="10.6 usestock1.cpp">
+      <Filter>源文件\第10章 对象和类\10.4-10.6</Filter>
+    </ClCompile>
+    <ClCompile Include="10.8 stock20.cpp">
+      <Filter>源文件\第10章 对象和类\10.7-10.9</Filter>
+    </ClCompile>
+    <ClCompile Include="10.9 usestock2.cpp">
+      <Filter>源文件\第10章 对象和类\10.7-10.9</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11 stack.cpp">
+      <Filter>源文件\第10章 对象和类\10.10-10.12</Filter>
+    </ClCompile>
+    <ClCompile Include="10.12 stacker.cpp">
+      <Filter>源文件\第10章 对象和类\10.10-10.12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -670,6 +709,18 @@
     </ClInclude>
     <ClInclude Include="sales.h">
       <Filter>源文件\第9章 内存模型和名称空间\编程练习\9.4</Filter>
+    </ClInclude>
+    <ClInclude Include="10.1 stock00.h">
+      <Filter>源文件\第10章 对象和类\10.1-10.3</Filter>
+    </ClInclude>
+    <ClInclude Include="10.4 stock10.h">
+      <Filter>源文件\第10章 对象和类\10.4-10.6</Filter>
+    </ClInclude>
+    <ClInclude Include="10.7 stock20.h">
+      <Filter>源文件\第10章 对象和类\10.7-10.9</Filter>
+    </ClInclude>
+    <ClInclude Include="10.10 stack.h">
+      <Filter>源文件\第10章 对象和类\10.10-10.12</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -139,6 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10.11 stack.cpp" />
+    <ClCompile Include="10.12 stacker.cpp" />
+    <ClCompile Include="10.2 stock00.cpp" />
+    <ClCompile Include="10.5 stock10.cpp" />
+    <ClCompile Include="10.6 usestock1.cpp" />
+    <ClCompile Include="10.8 stock20.cpp" />
+    <ClCompile Include="10.9 usestock2.cpp" />
     <ClCompile Include="2.1 myfirst.cpp" />
     <ClCompile Include="2.1.cpp" />
     <ClCompile Include="2.2 carrots.cpp" />
@@ -331,8 +338,13 @@
     <ClCompile Include="9.9 static.cpp" />
     <ClCompile Include="golf.cpp" />
     <ClCompile Include="sales.cpp" />
+    <ClCompile Include="10.3 usestock0.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="10.1 stock00.h" />
+    <ClInclude Include="10.10 stack.h" />
+    <ClInclude Include="10.4 stock10.h" />
+    <ClInclude Include="10.7 stock20.h" />
     <ClInclude Include="9.1 coordin.h" />
     <ClInclude Include="9.11 namesp.h" />
     <ClInclude Include="golf.h" />
