@@ -94,6 +94,33 @@
     <Filter Include="源文件\第10章 对象和类\10.10-10.12">
       <UniqueIdentifier>{e791d716-b008-4169-9361-bf074fbe8c83}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第10章 对象和类\编程练习">
+      <UniqueIdentifier>{cd8873d3-1ac9-44d2-83e8-6ffb4de332c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\编程练习\10.1">
+      <UniqueIdentifier>{e742bfb5-4ad3-4014-8769-908ebaf84ab5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\编程练习\10.2">
+      <UniqueIdentifier>{0808af9f-e65f-4de5-b838-d13553822828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\编程练习\10.3">
+      <UniqueIdentifier>{161aff2b-93e0-40aa-9009-e25b5682dbb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\编程练习\10.4">
+      <UniqueIdentifier>{4f1323c4-7ea2-42ac-abc7-0f7e1e90b93a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\编程练习\10.5">
+      <UniqueIdentifier>{f86907e3-71d5-46be-9531-830096fe8ea2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\编程练习\10.6">
+      <UniqueIdentifier>{25fae006-aa97-4db1-82a8-95b3c5c71f7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\编程练习\10.7">
+      <UniqueIdentifier>{b0a5e3ec-e5e8-42fe-8bb0-3e77c333c77c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第10章 对象和类\编程练习\10.8">
+      <UniqueIdentifier>{49726e46-ee42-4071-b51e-54ecb7bb13a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -696,6 +723,57 @@
     <ClCompile Include="10.12 stacker.cpp">
       <Filter>源文件\第10章 对象和类\10.10-10.12</Filter>
     </ClCompile>
+    <ClCompile Include="10.1 account.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.1</Filter>
+    </ClCompile>
+    <ClCompile Include="10.1 useaccount.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.1</Filter>
+    </ClCompile>
+    <ClCompile Include="10.2 Person.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.2</Filter>
+    </ClCompile>
+    <ClCompile Include="10.2 usePerson.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.2</Filter>
+    </ClCompile>
+    <ClCompile Include="10.3 golf.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.3</Filter>
+    </ClCompile>
+    <ClCompile Include="10.3 usegolf.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.3</Filter>
+    </ClCompile>
+    <ClCompile Include="10.4 sales.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.4</Filter>
+    </ClCompile>
+    <ClCompile Include="10.4 usesales.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.4</Filter>
+    </ClCompile>
+    <ClCompile Include="10.5 stack.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.5</Filter>
+    </ClCompile>
+    <ClCompile Include="10.5 usestack.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.5</Filter>
+    </ClCompile>
+    <ClCompile Include="10.6 move.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.6</Filter>
+    </ClCompile>
+    <ClCompile Include="10.6 usemove.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.6</Filter>
+    </ClCompile>
+    <ClCompile Include="10.7 plorg.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.7</Filter>
+    </ClCompile>
+    <ClCompile Include="10.7 useplorg.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.7</Filter>
+    </ClCompile>
+    <ClCompile Include="10.8 list.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.8</Filter>
+    </ClCompile>
+    <ClCompile Include="10.8 uselist.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.8</Filter>
+    </ClCompile>
+    <ClCompile Include="10.8 person.cpp">
+      <Filter>源文件\第10章 对象和类\编程练习\10.8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -721,6 +799,33 @@
     </ClInclude>
     <ClInclude Include="10.10 stack.h">
       <Filter>源文件\第10章 对象和类\10.10-10.12</Filter>
+    </ClInclude>
+    <ClInclude Include="10.1 account.h">
+      <Filter>源文件\第10章 对象和类\编程练习\10.1</Filter>
+    </ClInclude>
+    <ClInclude Include="10.2 Person.h">
+      <Filter>源文件\第10章 对象和类\编程练习\10.2</Filter>
+    </ClInclude>
+    <ClInclude Include="10.3 golf.h">
+      <Filter>源文件\第10章 对象和类\编程练习\10.3</Filter>
+    </ClInclude>
+    <ClInclude Include="10.4 sales.h">
+      <Filter>源文件\第10章 对象和类\编程练习\10.4</Filter>
+    </ClInclude>
+    <ClInclude Include="10.5 stack.h">
+      <Filter>源文件\第10章 对象和类\编程练习\10.5</Filter>
+    </ClInclude>
+    <ClInclude Include="10.6 move.h">
+      <Filter>源文件\第10章 对象和类\编程练习\10.6</Filter>
+    </ClInclude>
+    <ClInclude Include="10.7 plorg.h">
+      <Filter>源文件\第10章 对象和类\编程练习\10.7</Filter>
+    </ClInclude>
+    <ClInclude Include="10.8 list.h">
+      <Filter>源文件\第10章 对象和类\编程练习\10.8</Filter>
+    </ClInclude>
+    <ClInclude Include="10.8 person.h">
+      <Filter>源文件\第10章 对象和类\编程练习\10.8</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

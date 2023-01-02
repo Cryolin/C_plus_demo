@@ -1,6 +1,5 @@
-﻿  10.11 stack.cpp
-  10.12 stacker.cpp
-  10.8 stock20.cpp
-  10.9 usestock2.cpp
+﻿  10.8 list.cpp
+  10.8 person.cpp
+  10.8 uselist.cpp
   正在生成代码...
   C++ Primer.vcxproj -> D:\git\C_plus_demo\5. C++ Primer\x64\Debug\C++ Primer.exe
