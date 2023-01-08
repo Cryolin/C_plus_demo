@@ -1,0 +1,6 @@
+planning time = 0 hours, 0 minutes
+coding time = 2 hours, 40 minutes
+fixing time = 5 hours, 55 minutes
+coding + fixing = 8 hours, 35 minutes
+more fixing time = 3 hours, 28 minutes
+morefixing.operator+(total) = 12 hours, 3 minutes

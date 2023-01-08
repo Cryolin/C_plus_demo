@@ -121,6 +121,54 @@
     <Filter Include="源文件\第10章 对象和类\编程练习\10.8">
       <UniqueIdentifier>{49726e46-ee42-4071-b51e-54ecb7bb13a3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第11章 使用类">
+      <UniqueIdentifier>{a676a160-0045-4a32-91fd-1b24cc03d0c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\11.1-11.3">
+      <UniqueIdentifier>{03d8a94f-52ae-4e81-b093-77d2ad17122e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\11.4-11.6">
+      <UniqueIdentifier>{4fec6934-c592-4f7f-8453-73edc62ef823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\11.7-11.9">
+      <UniqueIdentifier>{0742b105-0fd2-412f-a5bb-687a98b56834}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\11.10-11.12">
+      <UniqueIdentifier>{1be88a8e-96a0-4dbc-9023-d3c0dd6cd53f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\11.13-11.15">
+      <UniqueIdentifier>{2290cf04-2f2a-4703-801d-4aaad1e261d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\11.16-11.18">
+      <UniqueIdentifier>{2c0c99a7-3aec-4fc8-99a2-7b5954e2805b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\11.19-11.21">
+      <UniqueIdentifier>{1766a215-4678-427e-8f3c-e56e2bf708d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\编程练习">
+      <UniqueIdentifier>{bdbe9df1-cb23-4b6c-a4a0-c896e1a6f5f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\编程练习\11.1">
+      <UniqueIdentifier>{c6c57756-e1cc-41e8-ae01-d4708efdac67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\编程练习\11.2">
+      <UniqueIdentifier>{ede2cd98-e289-4d2c-bfb5-c08b5c4a5073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\编程练习\11.3">
+      <UniqueIdentifier>{2f95c84f-7e99-43bc-9c13-564ed7a8c2f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\编程练习\11.4">
+      <UniqueIdentifier>{2b4ef6a2-c03a-485f-b687-e13aed042953}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\编程练习\11.5">
+      <UniqueIdentifier>{854bac00-8cad-4977-88a9-a3d0e19c879b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\编程练习\11.6">
+      <UniqueIdentifier>{9c6180b5-22f8-4104-8c25-7c92067781d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第11章 使用类\编程练习\11.7">
+      <UniqueIdentifier>{dbe04145-fff7-43a4-a59a-10fb11263f37}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -774,6 +822,93 @@
     <ClCompile Include="10.8 person.cpp">
       <Filter>源文件\第10章 对象和类\编程练习\10.8</Filter>
     </ClCompile>
+    <ClCompile Include="11.2 mytime0.cpp">
+      <Filter>源文件\第11章 使用类\11.1-11.3</Filter>
+    </ClCompile>
+    <ClCompile Include="11.3 usetime0.cpp">
+      <Filter>源文件\第11章 使用类\11.1-11.3</Filter>
+    </ClCompile>
+    <ClCompile Include="11.5 mytime1.cpp">
+      <Filter>源文件\第11章 使用类\11.4-11.6</Filter>
+    </ClCompile>
+    <ClCompile Include="11.6 usetime1.cpp">
+      <Filter>源文件\第11章 使用类\11.4-11.6</Filter>
+    </ClCompile>
+    <ClCompile Include="11.8 mytime2.cpp">
+      <Filter>源文件\第11章 使用类\11.7-11.9</Filter>
+    </ClCompile>
+    <ClCompile Include="11.9 usetime2.cpp">
+      <Filter>源文件\第11章 使用类\11.7-11.9</Filter>
+    </ClCompile>
+    <ClCompile Include="11.11 mytime3.cpp">
+      <Filter>源文件\第11章 使用类\11.10-11.12</Filter>
+    </ClCompile>
+    <ClCompile Include="11.12 usetime3.cpp">
+      <Filter>源文件\第11章 使用类\11.10-11.12</Filter>
+    </ClCompile>
+    <ClCompile Include="11.14 vector.cpp">
+      <Filter>源文件\第11章 使用类\11.13-11.15</Filter>
+    </ClCompile>
+    <ClCompile Include="11.15 randwalk.cpp">
+      <Filter>源文件\第11章 使用类\11.13-11.15</Filter>
+    </ClCompile>
+    <ClCompile Include="11.16 stonewt.h">
+      <Filter>源文件\第11章 使用类\11.16-11.18</Filter>
+    </ClCompile>
+    <ClCompile Include="11.17 stonewt.cpp">
+      <Filter>源文件\第11章 使用类\11.16-11.18</Filter>
+    </ClCompile>
+    <ClCompile Include="11.18 stone.cpp">
+      <Filter>源文件\第11章 使用类\11.16-11.18</Filter>
+    </ClCompile>
+    <ClCompile Include="11.20 stonewt1.cpp">
+      <Filter>源文件\第11章 使用类\11.19-11.21</Filter>
+    </ClCompile>
+    <ClCompile Include="11.21 stone1.cpp">
+      <Filter>源文件\第11章 使用类\11.19-11.21</Filter>
+    </ClCompile>
+    <ClCompile Include="11.2 vector.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.2</Filter>
+    </ClCompile>
+    <ClCompile Include="11.2 randwalk.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.2</Filter>
+    </ClCompile>
+    <ClCompile Include="11.3 vector.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.3</Filter>
+    </ClCompile>
+    <ClCompile Include="11.3 randwalk.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.3</Filter>
+    </ClCompile>
+    <ClCompile Include="11.1 mytime.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.1</Filter>
+    </ClCompile>
+    <ClCompile Include="11.1 usetime.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.1</Filter>
+    </ClCompile>
+    <ClCompile Include="11.4 mytime.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.4</Filter>
+    </ClCompile>
+    <ClCompile Include="11.4 usetime.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.4</Filter>
+    </ClCompile>
+    <ClCompile Include="11.5 stonewt.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.5</Filter>
+    </ClCompile>
+    <ClCompile Include="11.5 stone.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.5</Filter>
+    </ClCompile>
+    <ClCompile Include="11.6 stonewt.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.6</Filter>
+    </ClCompile>
+    <ClCompile Include="11.6 stone.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.6</Filter>
+    </ClCompile>
+    <ClCompile Include="11.7 complex.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.7</Filter>
+    </ClCompile>
+    <ClCompile Include="11.7 usecomplex.cpp">
+      <Filter>源文件\第11章 使用类\编程练习\11.7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -826,6 +961,45 @@
     </ClInclude>
     <ClInclude Include="10.8 person.h">
       <Filter>源文件\第10章 对象和类\编程练习\10.8</Filter>
+    </ClInclude>
+    <ClInclude Include="11.1 mytime0.h">
+      <Filter>源文件\第11章 使用类\11.1-11.3</Filter>
+    </ClInclude>
+    <ClInclude Include="11.4 mytime1.h">
+      <Filter>源文件\第11章 使用类\11.4-11.6</Filter>
+    </ClInclude>
+    <ClInclude Include="11.7 mytime2.h">
+      <Filter>源文件\第11章 使用类\11.7-11.9</Filter>
+    </ClInclude>
+    <ClInclude Include="11.10 mytime3.h">
+      <Filter>源文件\第11章 使用类\11.10-11.12</Filter>
+    </ClInclude>
+    <ClInclude Include="11.13 vector.h">
+      <Filter>源文件\第11章 使用类\11.13-11.15</Filter>
+    </ClInclude>
+    <ClInclude Include="11.19 stonewt1.h">
+      <Filter>源文件\第11章 使用类\11.19-11.21</Filter>
+    </ClInclude>
+    <ClInclude Include="11.2 vector.h">
+      <Filter>源文件\第11章 使用类\编程练习\11.2</Filter>
+    </ClInclude>
+    <ClInclude Include="11.3 vector.h">
+      <Filter>源文件\第11章 使用类\编程练习\11.3</Filter>
+    </ClInclude>
+    <ClInclude Include="11.1 mytime.h">
+      <Filter>源文件\第11章 使用类\编程练习\11.1</Filter>
+    </ClInclude>
+    <ClInclude Include="11.4 mytime.h">
+      <Filter>源文件\第11章 使用类\编程练习\11.4</Filter>
+    </ClInclude>
+    <ClInclude Include="11.5 stonewt.h">
+      <Filter>源文件\第11章 使用类\编程练习\11.5</Filter>
+    </ClInclude>
+    <ClInclude Include="11.6 stonewt.h">
+      <Filter>源文件\第11章 使用类\编程练习\11.6</Filter>
+    </ClInclude>
+    <ClInclude Include="11.7 complex.h">
+      <Filter>源文件\第11章 使用类\编程练习\11.7</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
