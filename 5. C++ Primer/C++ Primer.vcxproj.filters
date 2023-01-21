@@ -169,6 +169,9 @@
     <Filter Include="源文件\第11章 使用类\编程练习\11.7">
       <UniqueIdentifier>{dbe04145-fff7-43a4-a59a-10fb11263f37}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第12章 类和动态内存分配">
+      <UniqueIdentifier>{492d2cc9-da40-436b-a29e-aae8c4ec8f97}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -908,6 +911,9 @@
     </ClCompile>
     <ClCompile Include="11.7 usecomplex.cpp">
       <Filter>源文件\第11章 使用类\编程练习\11.7</Filter>
+    </ClCompile>
+    <ClCompile Include="12.1 test.cpp">
+      <Filter>源文件\第12章 类和动态内存分配</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

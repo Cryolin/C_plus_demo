@@ -192,6 +192,7 @@
     <ClCompile Include="11.7 usecomplex.cpp" />
     <ClCompile Include="11.8 mytime2.cpp" />
     <ClCompile Include="11.9 usetime2.cpp" />
+    <ClCompile Include="12.1 test.cpp" />
     <ClCompile Include="2.1 myfirst.cpp" />
     <ClCompile Include="2.1.cpp" />
     <ClCompile Include="2.2 carrots.cpp" />
