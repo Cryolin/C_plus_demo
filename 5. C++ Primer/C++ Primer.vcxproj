@@ -192,7 +192,14 @@
     <ClCompile Include="11.7 usecomplex.cpp" />
     <ClCompile Include="11.8 mytime2.cpp" />
     <ClCompile Include="11.9 usetime2.cpp" />
-    <ClCompile Include="12.1 test.cpp" />
+    <ClCompile Include="12.11 queue.cpp" />
+    <ClCompile Include="12.12 bank.cpp" />
+    <ClCompile Include="12.2 stringbad.cpp" />
+    <ClCompile Include="12.5 string1.cpp" />
+    <ClCompile Include="12.6 sayings1.cpp" />
+    <ClCompile Include="12.7 sayings2.cpp" />
+    <ClCompile Include="12.8 placenew1.cpp" />
+    <ClCompile Include="12.9 placenew2.cpp" />
     <ClCompile Include="2.1 myfirst.cpp" />
     <ClCompile Include="2.1.cpp" />
     <ClCompile Include="2.2 carrots.cpp" />
@@ -386,6 +393,7 @@
     <ClCompile Include="golf.cpp" />
     <ClCompile Include="sales.cpp" />
     <ClCompile Include="10.3 usestock0.cpp" />
+    <ClCompile Include="12.3 vegnews.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="10.1 account.h" />
@@ -414,6 +422,9 @@
     <ClInclude Include="11.6 stonewt.h" />
     <ClInclude Include="11.7 complex.h" />
     <ClInclude Include="11.7 mytime2.h" />
+    <ClInclude Include="12.1 stringbad.h" />
+    <ClInclude Include="12.10 queue.h" />
+    <ClInclude Include="12.4 string1.h" />
     <ClInclude Include="9.1 coordin.h" />
     <ClInclude Include="9.11 namesp.h" />
     <ClInclude Include="golf.h" />

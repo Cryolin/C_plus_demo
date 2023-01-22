@@ -172,6 +172,15 @@
     <Filter Include="源文件\第12章 类和动态内存分配">
       <UniqueIdentifier>{492d2cc9-da40-436b-a29e-aae8c4ec8f97}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第12章 类和动态内存分配\12.1-12.3">
+      <UniqueIdentifier>{9c2fe763-ee7e-4c15-a7b1-17b7433c4258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第12章 类和动态内存分配\12.4-12.6/12.7">
+      <UniqueIdentifier>{850bf660-66ef-4b2c-9e97-63005f1b5110}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第12章 类和动态内存分配\12.10-12.12">
+      <UniqueIdentifier>{5880f65b-1712-4f8c-a2b3-7d0ec81e67e5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -912,8 +921,32 @@
     <ClCompile Include="11.7 usecomplex.cpp">
       <Filter>源文件\第11章 使用类\编程练习\11.7</Filter>
     </ClCompile>
-    <ClCompile Include="12.1 test.cpp">
+    <ClCompile Include="12.2 stringbad.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\12.1-12.3</Filter>
+    </ClCompile>
+    <ClCompile Include="12.3 vegnews.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\12.1-12.3</Filter>
+    </ClCompile>
+    <ClCompile Include="12.5 string1.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\12.4-12.6/12.7</Filter>
+    </ClCompile>
+    <ClCompile Include="12.6 sayings1.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\12.4-12.6/12.7</Filter>
+    </ClCompile>
+    <ClCompile Include="12.7 sayings2.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\12.4-12.6/12.7</Filter>
+    </ClCompile>
+    <ClCompile Include="12.8 placenew1.cpp">
       <Filter>源文件\第12章 类和动态内存分配</Filter>
+    </ClCompile>
+    <ClCompile Include="12.9 placenew2.cpp">
+      <Filter>源文件\第12章 类和动态内存分配</Filter>
+    </ClCompile>
+    <ClCompile Include="12.11 queue.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\12.10-12.12</Filter>
+    </ClCompile>
+    <ClCompile Include="12.12 bank.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\12.10-12.12</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -1006,6 +1039,15 @@
     </ClInclude>
     <ClInclude Include="11.7 complex.h">
       <Filter>源文件\第11章 使用类\编程练习\11.7</Filter>
+    </ClInclude>
+    <ClInclude Include="12.1 stringbad.h">
+      <Filter>源文件\第12章 类和动态内存分配\12.1-12.3</Filter>
+    </ClInclude>
+    <ClInclude Include="12.4 string1.h">
+      <Filter>源文件\第12章 类和动态内存分配\12.4-12.6/12.7</Filter>
+    </ClInclude>
+    <ClInclude Include="12.10 queue.h">
+      <Filter>源文件\第12章 类和动态内存分配\12.10-12.12</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
