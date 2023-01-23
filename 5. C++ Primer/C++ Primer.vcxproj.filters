@@ -181,6 +181,21 @@
     <Filter Include="源文件\第12章 类和动态内存分配\12.10-12.12">
       <UniqueIdentifier>{5880f65b-1712-4f8c-a2b3-7d0ec81e67e5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第12章 类和动态内存分配\编程练习">
+      <UniqueIdentifier>{ff2a7101-8e9e-483b-8895-ec024a4f925f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第12章 类和动态内存分配\编程练习\12.1">
+      <UniqueIdentifier>{8a102cdb-19be-4b7b-9ad8-a199ce52838f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第12章 类和动态内存分配\编程练习\12.2">
+      <UniqueIdentifier>{2ed4fa43-b595-4004-a218-6236776bf289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第12章 类和动态内存分配\编程练习\12.3">
+      <UniqueIdentifier>{143be87d-cb85-4d8a-ad0a-8397fc893cd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第12章 类和动态内存分配\编程练习\12.4">
+      <UniqueIdentifier>{372a003a-6c93-4af0-838d-9c481d5981cf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -948,6 +963,30 @@
     <ClCompile Include="12.12 bank.cpp">
       <Filter>源文件\第12章 类和动态内存分配\12.10-12.12</Filter>
     </ClCompile>
+    <ClCompile Include="12.1 cow.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.1</Filter>
+    </ClCompile>
+    <ClCompile Include="12.1 usecow.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.1</Filter>
+    </ClCompile>
+    <ClCompile Include="12.2 string2.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.2</Filter>
+    </ClCompile>
+    <ClCompile Include="12.2 usestring2.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.2</Filter>
+    </ClCompile>
+    <ClCompile Include="12.3 stock.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.3</Filter>
+    </ClCompile>
+    <ClCompile Include="12.3 usestock.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.3</Filter>
+    </ClCompile>
+    <ClCompile Include="12.4 stack.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.4</Filter>
+    </ClCompile>
+    <ClCompile Include="12.4 usestack.cpp">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -1048,6 +1087,18 @@
     </ClInclude>
     <ClInclude Include="12.10 queue.h">
       <Filter>源文件\第12章 类和动态内存分配\12.10-12.12</Filter>
+    </ClInclude>
+    <ClInclude Include="12.1 cow.h">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.1</Filter>
+    </ClInclude>
+    <ClInclude Include="12.2 string2.h">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.2</Filter>
+    </ClInclude>
+    <ClInclude Include="12.3 stock.h">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.3</Filter>
+    </ClInclude>
+    <ClInclude Include="12.4 stack.h">
+      <Filter>源文件\第12章 类和动态内存分配\编程练习\12.4</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
