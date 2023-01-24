@@ -196,6 +196,24 @@
     <Filter Include="源文件\第12章 类和动态内存分配\编程练习\12.4">
       <UniqueIdentifier>{372a003a-6c93-4af0-838d-9c481d5981cf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第13章 类继承">
+      <UniqueIdentifier>{ca42e551-364b-4ced-bdd4-04fbdea3cf47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第13章 类继承\13.1-13.3">
+      <UniqueIdentifier>{45ba568f-334c-4b0d-bdd4-00c8af49c1b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第13章 类继承\13.4-13.6">
+      <UniqueIdentifier>{eca1b93e-a5a2-443f-a3b4-557fc6463ff0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第13章 类继承\13.7-13.9/13.10">
+      <UniqueIdentifier>{1676fb9a-eb2c-4014-a734-b746053b058a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第13章 类继承\13.11-13.13">
+      <UniqueIdentifier>{b93a8f92-8b6a-4eb6-93cf-560a418f4056}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第13章 类继承\13.14-13.16">
+      <UniqueIdentifier>{bb38eee9-ac19-40a3-bf4e-e02d75de9b0d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -987,6 +1005,39 @@
     <ClCompile Include="12.4 usestack.cpp">
       <Filter>源文件\第12章 类和动态内存分配\编程练习\12.4</Filter>
     </ClCompile>
+    <ClCompile Include="13.2 tabtenn0.cpp">
+      <Filter>源文件\第13章 类继承\13.1-13.3</Filter>
+    </ClCompile>
+    <ClCompile Include="13.3 usett0.cpp">
+      <Filter>源文件\第13章 类继承\13.1-13.3</Filter>
+    </ClCompile>
+    <ClCompile Include="13.5 tabtenn1.cpp">
+      <Filter>源文件\第13章 类继承\13.4-13.6</Filter>
+    </ClCompile>
+    <ClCompile Include="13.6 usett1.cpp">
+      <Filter>源文件\第13章 类继承\13.4-13.6</Filter>
+    </ClCompile>
+    <ClCompile Include="13.8 brass.cpp">
+      <Filter>源文件\第13章 类继承\13.7-13.9/13.10</Filter>
+    </ClCompile>
+    <ClCompile Include="13.9 usebrass1.cpp">
+      <Filter>源文件\第13章 类继承\13.7-13.9/13.10</Filter>
+    </ClCompile>
+    <ClCompile Include="13.10 usebrass2.cpp">
+      <Filter>源文件\第13章 类继承\13.7-13.9/13.10</Filter>
+    </ClCompile>
+    <ClCompile Include="13.12 acctABC.cpp">
+      <Filter>源文件\第13章 类继承\13.11-13.13</Filter>
+    </ClCompile>
+    <ClCompile Include="13.13 usebrass3.cpp">
+      <Filter>源文件\第13章 类继承\13.11-13.13</Filter>
+    </ClCompile>
+    <ClCompile Include="13.15 dma.cpp">
+      <Filter>源文件\第13章 类继承\13.14-13.16</Filter>
+    </ClCompile>
+    <ClCompile Include="13.16 usedma.cpp">
+      <Filter>源文件\第13章 类继承\13.14-13.16</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -1099,6 +1150,21 @@
     </ClInclude>
     <ClInclude Include="12.4 stack.h">
       <Filter>源文件\第12章 类和动态内存分配\编程练习\12.4</Filter>
+    </ClInclude>
+    <ClInclude Include="13.1 tabtenn0.h">
+      <Filter>源文件\第13章 类继承\13.1-13.3</Filter>
+    </ClInclude>
+    <ClInclude Include="13.4 tabtenn1.h">
+      <Filter>源文件\第13章 类继承\13.4-13.6</Filter>
+    </ClInclude>
+    <ClInclude Include="13.7 brass.h">
+      <Filter>源文件\第13章 类继承\13.7-13.9/13.10</Filter>
+    </ClInclude>
+    <ClInclude Include="13.11 acctabc.h">
+      <Filter>源文件\第13章 类继承\13.11-13.13</Filter>
+    </ClInclude>
+    <ClInclude Include="13.14 dma.h">
+      <Filter>源文件\第13章 类继承\13.14-13.16</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
