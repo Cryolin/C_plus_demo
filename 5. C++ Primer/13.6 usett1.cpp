@@ -8,6 +8,9 @@
 //	using std::endl;
 //	TableTennisPlayer player1("Tara", "Boomdea", false);
 //	RatedPlayer rplayer1(1140, "Mallory", "Duck", true);
+//
+//	rplayer1.TableTennisPlayer::Name();
+//
 //	rplayer1.Name();          // derived object uses base method
 //	if (rplayer1.HasTable())
 //		cout << ": has a table.\n";
@@ -26,6 +29,6 @@
 //	cout << "Name: ";
 //	rplayer2.Name();
 //	cout << "; Rating: " << rplayer2.Rating() << endl;
-//	// std::cin.get();
+//	 std::cin.get();
 //	return 0;
 //}

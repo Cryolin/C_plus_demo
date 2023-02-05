@@ -1,6 +1,6 @@
-﻿  13.2 cd.cpp
-  13.2 usecd.cpp
-  13.3 dma.cpp
-  13.3 usedma.cpp
+﻿  14.2 student.cpp
+  14.24 manyfrnd.cpp
+  14.5 student.cpp
   正在生成代码...
-  C++ Primer.vcxproj -> D:\git\C_plus_demo\5. C++ Primer\x64\Debug\C++ Primer.exe
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\git\C_plus_demo\5. C++ Primer\x64\Debug\C++ Primer.exe : fatal error LNK1120: 1 个无法解析的外部命令

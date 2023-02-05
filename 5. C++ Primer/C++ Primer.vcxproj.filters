@@ -226,6 +226,48 @@
     <Filter Include="源文件\第13章 类继承\编程练习\13.3">
       <UniqueIdentifier>{4b88d6b4-6076-490d-a2c5-47fc6cf8b62d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用">
+      <UniqueIdentifier>{b4e23a1d-ece0-435b-a0f4-ff6a4a8cfffc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.1-14.3">
+      <UniqueIdentifier>{96639bec-754d-400a-89e5-730a15b4d39d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.4-14.6">
+      <UniqueIdentifier>{53103d47-5263-4fe4-b331-fcfaab7efb6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.7-14.9">
+      <UniqueIdentifier>{d05d766f-d8a5-42bd-b02a-af66c5a15e33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.10-14.12">
+      <UniqueIdentifier>{61d9a649-8039-473c-8f51-c4ccf03c867e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.13-14.14">
+      <UniqueIdentifier>{160613a3-53ab-4487-86f9-9f747b269d5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.15-14.16">
+      <UniqueIdentifier>{e7c798a1-0373-48af-a467-8c6b190635d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.17-14,18">
+      <UniqueIdentifier>{88045f24-b1e9-4881-9abf-18ba83d94080}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.19">
+      <UniqueIdentifier>{d0d4cda7-9875-4e4b-b5e7-a18e7d744e48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.20">
+      <UniqueIdentifier>{7bbc3ff9-2dbb-429b-9465-f3f07fddb9e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.21">
+      <UniqueIdentifier>{cad2ecde-b0f9-4819-a301-146253f7d30c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.22">
+      <UniqueIdentifier>{fd71ccec-e8b0-43b4-b016-0d5d06bdef9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.23">
+      <UniqueIdentifier>{e01c7a59-0ec8-4b41-bef7-5544044f9433}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\14.24">
+      <UniqueIdentifier>{09f3ee88-2ef7-4ae7-acdc-8db4084f0fa0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -1068,6 +1110,57 @@
     <ClCompile Include="13.3 usedma.cpp">
       <Filter>源文件\第13章 类继承\编程练习\13.3</Filter>
     </ClCompile>
+    <ClCompile Include="14.2 student.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.1-14.3</Filter>
+    </ClCompile>
+    <ClCompile Include="14.3 use_stuc.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.1-14.3</Filter>
+    </ClCompile>
+    <ClCompile Include="14.5 student.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.4-14.6</Filter>
+    </ClCompile>
+    <ClCompile Include="14.6 use_stui.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.4-14.6</Filter>
+    </ClCompile>
+    <ClCompile Include="14.8 worker0.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.7-14.9</Filter>
+    </ClCompile>
+    <ClCompile Include="14.9 worktest.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.7-14.9</Filter>
+    </ClCompile>
+    <ClCompile Include="14.11 workermi.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.10-14.12</Filter>
+    </ClCompile>
+    <ClCompile Include="14.12 workmi.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.10-14.12</Filter>
+    </ClCompile>
+    <ClCompile Include="14.14 stacktem.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.13-14.14</Filter>
+    </ClCompile>
+    <ClCompile Include="14.16 stkoptr1.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.15-14.16</Filter>
+    </ClCompile>
+    <ClCompile Include="14.18 twod.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.17-14,18</Filter>
+    </ClCompile>
+    <ClCompile Include="14.19 pairs.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.19</Filter>
+    </ClCompile>
+    <ClCompile Include="14.20 tempmemb.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.20</Filter>
+    </ClCompile>
+    <ClCompile Include="14.21 tempparm.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.21</Filter>
+    </ClCompile>
+    <ClCompile Include="14.22 frnd2tmp.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.22</Filter>
+    </ClCompile>
+    <ClCompile Include="14.23 tmp2tmp.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.23</Filter>
+    </ClCompile>
+    <ClCompile Include="14.24 manyfrnd.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\14.24</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -1204,6 +1297,27 @@
     </ClInclude>
     <ClInclude Include="13.3 dma.h">
       <Filter>源文件\第13章 类继承\编程练习\13.3</Filter>
+    </ClInclude>
+    <ClInclude Include="14.1 studentc.h">
+      <Filter>源文件\第14章 C++中的代码重用\14.1-14.3</Filter>
+    </ClInclude>
+    <ClInclude Include="14.4 studenti.h">
+      <Filter>源文件\第14章 C++中的代码重用\14.4-14.6</Filter>
+    </ClInclude>
+    <ClInclude Include="14.7 Worker0.h">
+      <Filter>源文件\第14章 C++中的代码重用\14.7-14.9</Filter>
+    </ClInclude>
+    <ClInclude Include="14.10 workermi.h">
+      <Filter>源文件\第14章 C++中的代码重用\14.10-14.12</Filter>
+    </ClInclude>
+    <ClInclude Include="14.13 stacktp.h">
+      <Filter>源文件\第14章 C++中的代码重用\14.13-14.14</Filter>
+    </ClInclude>
+    <ClInclude Include="14.15 stcktp1.h">
+      <Filter>源文件\第14章 C++中的代码重用\14.15-14.16</Filter>
+    </ClInclude>
+    <ClInclude Include="14.17 arraytp.h">
+      <Filter>源文件\第14章 C++中的代码重用\14.17-14,18</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
