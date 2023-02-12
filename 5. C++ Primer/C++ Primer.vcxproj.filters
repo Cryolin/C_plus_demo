@@ -268,6 +268,15 @@
     <Filter Include="源文件\第14章 C++中的代码重用\14.24">
       <UniqueIdentifier>{09f3ee88-2ef7-4ae7-acdc-8db4084f0fa0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\编程练习">
+      <UniqueIdentifier>{f0e05094-5e76-4121-a859-6e8f7f82c058}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\编程练习\14.1">
+      <UniqueIdentifier>{5a141aa3-e262-4b54-98fa-c53cb40a72a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第14章 C++中的代码重用\编程练习\14.2">
+      <UniqueIdentifier>{a8e7403a-4051-41d3-bba8-44a83f5c8b8b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -1161,6 +1170,18 @@
     <ClCompile Include="14.24 manyfrnd.cpp">
       <Filter>源文件\第14章 C++中的代码重用\14.24</Filter>
     </ClCompile>
+    <ClCompile Include="14.1 wine.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\编程练习\14.1</Filter>
+    </ClCompile>
+    <ClCompile Include="14.1 usewine.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\编程练习\14.1</Filter>
+    </ClCompile>
+    <ClCompile Include="14.2 winep.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\编程练习\14.2</Filter>
+    </ClCompile>
+    <ClCompile Include="14.2 usewinep.cpp">
+      <Filter>源文件\第14章 C++中的代码重用\编程练习\14.2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -1318,6 +1339,12 @@
     </ClInclude>
     <ClInclude Include="14.17 arraytp.h">
       <Filter>源文件\第14章 C++中的代码重用\14.17-14,18</Filter>
+    </ClInclude>
+    <ClInclude Include="14.1 wine.h">
+      <Filter>源文件\第14章 C++中的代码重用\编程练习\14.1</Filter>
+    </ClInclude>
+    <ClInclude Include="14.2 winep.h">
+      <Filter>源文件\第14章 C++中的代码重用\编程练习\14.2</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

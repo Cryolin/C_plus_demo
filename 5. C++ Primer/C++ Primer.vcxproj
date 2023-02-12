@@ -225,6 +225,8 @@
     <ClCompile Include="13.6 usett1.cpp" />
     <ClCompile Include="13.8 brass.cpp" />
     <ClCompile Include="13.9 usebrass1.cpp" />
+    <ClCompile Include="14.1 usewine.cpp" />
+    <ClCompile Include="14.1 wine.cpp" />
     <ClCompile Include="14.11 workermi.cpp" />
     <ClCompile Include="14.12 workmi.cpp" />
     <ClCompile Include="14.14 stacktem.cpp" />
@@ -232,6 +234,8 @@
     <ClCompile Include="14.18 twod.cpp" />
     <ClCompile Include="14.19 pairs.cpp" />
     <ClCompile Include="14.2 student.cpp" />
+    <ClCompile Include="14.2 usewinep.cpp" />
+    <ClCompile Include="14.2 winep.cpp" />
     <ClCompile Include="14.20 tempmemb.cpp" />
     <ClCompile Include="14.21 tempparm.cpp" />
     <ClCompile Include="14.22 frnd2tmp.cpp" />
@@ -480,10 +484,12 @@
     <ClInclude Include="13.4 tabtenn1.h" />
     <ClInclude Include="13.7 brass.h" />
     <ClInclude Include="14.1 studentc.h" />
+    <ClInclude Include="14.1 wine.h" />
     <ClInclude Include="14.10 workermi.h" />
     <ClInclude Include="14.13 stacktp.h" />
     <ClInclude Include="14.15 stcktp1.h" />
     <ClInclude Include="14.17 arraytp.h" />
+    <ClInclude Include="14.2 winep.h" />
     <ClInclude Include="14.4 studenti.h" />
     <ClInclude Include="14.7 Worker0.h" />
     <ClInclude Include="9.1 coordin.h" />
