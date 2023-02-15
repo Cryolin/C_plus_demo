@@ -246,6 +246,8 @@
     <ClCompile Include="14.6 use_stui.cpp" />
     <ClCompile Include="14.8 worker0.cpp" />
     <ClCompile Include="14.9 worktest.cpp" />
+    <ClCompile Include="15.1 main.cpp" />
+    <ClCompile Include="15.1 test.cpp" />
     <ClCompile Include="2.1 myfirst.cpp" />
     <ClCompile Include="2.1.cpp" />
     <ClCompile Include="2.2 carrots.cpp" />
@@ -492,6 +494,7 @@
     <ClInclude Include="14.2 winep.h" />
     <ClInclude Include="14.4 studenti.h" />
     <ClInclude Include="14.7 Worker0.h" />
+    <ClInclude Include="15.1 test.h" />
     <ClInclude Include="9.1 coordin.h" />
     <ClInclude Include="9.11 namesp.h" />
     <ClInclude Include="golf.h" />

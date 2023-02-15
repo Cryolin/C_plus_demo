@@ -277,6 +277,9 @@
     <Filter Include="源文件\第14章 C++中的代码重用\编程练习\14.2">
       <UniqueIdentifier>{a8e7403a-4051-41d3-bba8-44a83f5c8b8b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他">
+      <UniqueIdentifier>{dc4c98cb-3d0f-4738-9372-005fce438a2d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -1182,6 +1185,12 @@
     <ClCompile Include="14.2 usewinep.cpp">
       <Filter>源文件\第14章 C++中的代码重用\编程练习\14.2</Filter>
     </ClCompile>
+    <ClCompile Include="15.1 test.cpp">
+      <Filter>源文件\第15章 友元、异常和其他</Filter>
+    </ClCompile>
+    <ClCompile Include="15.1 main.cpp">
+      <Filter>源文件\第15章 友元、异常和其他</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -1345,6 +1354,9 @@
     </ClInclude>
     <ClInclude Include="14.2 winep.h">
       <Filter>源文件\第14章 C++中的代码重用\编程练习\14.2</Filter>
+    </ClInclude>
+    <ClInclude Include="15.1 test.h">
+      <Filter>源文件\第15章 友元、异常和其他</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
