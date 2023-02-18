@@ -280,6 +280,45 @@
     <Filter Include="源文件\第15章 友元、异常和其他">
       <UniqueIdentifier>{dc4c98cb-3d0f-4738-9372-005fce438a2d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.1-15.3">
+      <UniqueIdentifier>{d37ee060-f206-4679-82d8-38e2a805ab24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.4">
+      <UniqueIdentifier>{4a5e609a-43e1-4854-b813-c5049089bb44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.5-15.6">
+      <UniqueIdentifier>{46166692-1543-407a-9f84-6cf5be0c9063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.7">
+      <UniqueIdentifier>{db04b076-7d20-4d01-80a9-168042b881b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.8">
+      <UniqueIdentifier>{9e880982-2605-46e5-8a99-c1b06bc4b4d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.9">
+      <UniqueIdentifier>{d48d34ca-6177-41ff-9e6f-9e86a14c6de0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.10-15.11">
+      <UniqueIdentifier>{eadc1394-35f6-4fcd-aca8-31a867736fd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.12">
+      <UniqueIdentifier>{520eb13b-8e9b-4ff1-93a3-fe28c09df409}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.13">
+      <UniqueIdentifier>{f2970389-b2b4-4ff3-af1b-66fe5e1c06c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.14-15.16">
+      <UniqueIdentifier>{1c67205d-5583-4b35-8bf7-8b8c53bc9f03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.17">
+      <UniqueIdentifier>{28d58be4-afe4-45b0-9c91-adc970f07d1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.18">
+      <UniqueIdentifier>{678fcc9c-fc5a-42a4-8790-db8daceb0fdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第15章 友元、异常和其他\15.19">
+      <UniqueIdentifier>{d8148395-8a6a-4f71-969f-9d3549cde5b1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
@@ -1191,6 +1230,48 @@
     <ClCompile Include="15.1 main.cpp">
       <Filter>源文件\第15章 友元、异常和其他</Filter>
     </ClCompile>
+    <ClCompile Include="15.2 tv.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.1-15.3</Filter>
+    </ClCompile>
+    <ClCompile Include="15.3 use_tv.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.1-15.3</Filter>
+    </ClCompile>
+    <ClCompile Include="15.6 nested.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.5-15.6</Filter>
+    </ClCompile>
+    <ClCompile Include="15.7 error1.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.7</Filter>
+    </ClCompile>
+    <ClCompile Include="15.8 error2.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.8</Filter>
+    </ClCompile>
+    <ClCompile Include="15.9 error3.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.9</Filter>
+    </ClCompile>
+    <ClCompile Include="15.11 error4.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.10-15.11</Filter>
+    </ClCompile>
+    <ClCompile Include="15.12 error5.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.12</Filter>
+    </ClCompile>
+    <ClCompile Include="15.13 newexcp.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.13</Filter>
+    </ClCompile>
+    <ClCompile Include="15.15 sales.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.14-15.16</Filter>
+    </ClCompile>
+    <ClCompile Include="15.16 use_sales.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.14-15.16</Filter>
+    </ClCompile>
+    <ClCompile Include="15.17 rtti1.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.17</Filter>
+    </ClCompile>
+    <ClCompile Include="15.18 rtti2.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.18</Filter>
+    </ClCompile>
+    <ClCompile Include="15.19 constcast.cpp">
+      <Filter>源文件\第15章 友元、异常和其他\15.19</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="9.1 coordin.h">
@@ -1357,6 +1438,21 @@
     </ClInclude>
     <ClInclude Include="15.1 test.h">
       <Filter>源文件\第15章 友元、异常和其他</Filter>
+    </ClInclude>
+    <ClInclude Include="15.1 tv.h">
+      <Filter>源文件\第15章 友元、异常和其他\15.1-15.3</Filter>
+    </ClInclude>
+    <ClInclude Include="15.4 tvfm.h">
+      <Filter>源文件\第15章 友元、异常和其他\15.4</Filter>
+    </ClInclude>
+    <ClInclude Include="15.5 queuetp.h">
+      <Filter>源文件\第15章 友元、异常和其他\15.5-15.6</Filter>
+    </ClInclude>
+    <ClInclude Include="15.10 exc_mean.h">
+      <Filter>源文件\第15章 友元、异常和其他\15.10-15.11</Filter>
+    </ClInclude>
+    <ClInclude Include="15.14 sales.h">
+      <Filter>源文件\第15章 友元、异常和其他\15.14-15.16</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
