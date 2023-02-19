@@ -1224,12 +1224,6 @@
     <ClCompile Include="14.2 usewinep.cpp">
       <Filter>源文件\第14章 C++中的代码重用\编程练习\14.2</Filter>
     </ClCompile>
-    <ClCompile Include="15.1 test.cpp">
-      <Filter>源文件\第15章 友元、异常和其他</Filter>
-    </ClCompile>
-    <ClCompile Include="15.1 main.cpp">
-      <Filter>源文件\第15章 友元、异常和其他</Filter>
-    </ClCompile>
     <ClCompile Include="15.2 tv.cpp">
       <Filter>源文件\第15章 友元、异常和其他\15.1-15.3</Filter>
     </ClCompile>
@@ -1435,9 +1429,6 @@
     </ClInclude>
     <ClInclude Include="14.2 winep.h">
       <Filter>源文件\第14章 C++中的代码重用\编程练习\14.2</Filter>
-    </ClInclude>
-    <ClInclude Include="15.1 test.h">
-      <Filter>源文件\第15章 友元、异常和其他</Filter>
     </ClInclude>
     <ClInclude Include="15.1 tv.h">
       <Filter>源文件\第15章 友元、异常和其他\15.1-15.3</Filter>
