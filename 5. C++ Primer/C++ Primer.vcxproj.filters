@@ -322,6 +322,9 @@
     <Filter Include="源文件\第16章 string类和标准模板库">
       <UniqueIdentifier>{8342e8ad-4a8a-4cb4-9828-7bbea00f7257}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第17章 输入、输出和文件">
+      <UniqueIdentifier>{038e2345-3db1-4490-ad43-af9be849af04}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
