@@ -325,6 +325,9 @@
     <Filter Include="源文件\第17章 输入、输出和文件">
       <UniqueIdentifier>{038e2345-3db1-4490-ad43-af9be849af04}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第18章 探讨C++新标准">
+      <UniqueIdentifier>{f411225b-cbfe-4f76-8fd9-a7e19157d39b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.1 myfirst.cpp">
